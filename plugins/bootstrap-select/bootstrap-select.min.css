@@ -57,11 +57,11 @@ select.selectpicker {
 .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn) {
     width: 220px
 }
-.bootstrap-select.show .dropdown-toggle { border: 1px solid #1b55e2!important;
+.bootstrap-select.show .dropdown-toggle { border: 1px solid #6628fe!important;
     box-shadow: 0 0 5px 2px rgba(194, 213, 255, 0.6196078431372549);
     color: #3b3f5c;
 }
-.bootstrap-select.show .dropdown-toggle.btn-outline-primary { border: 1px solid #1b55e2 !important; }
+.bootstrap-select.show .dropdown-toggle.btn-outline-primary { border: 1px solid #6628fe !important; }
 .bootstrap-select.show .dropdown-toggle.btn-outline-info { border: 1px solid #2196f3 !important; }
 .bootstrap-select.show .dropdown-toggle.btn-outline-success { border: 1px solid #8dbf42 !important; }
 .bootstrap-select.show .dropdown-toggle.btn-outline-warning { border: 1px solid #e2a03f !important; }
@@ -207,7 +207,7 @@ select.selectpicker {
     font-weight: 500;
 }
 .bootstrap-select.btn-group .dropdown-menu a.dropdown-item span.dropdown-item-inner:not([class*="bg-"]):hover {
-    color: #3300fe;
+    color: #6628fe;
     background-color: rgba(27, 85, 226, 0.23921568627450981);
 }
 .bootstrap-select.btn-group .dropdown-menu a.dropdown-item span.dropdown-item-inner.opt {
@@ -380,7 +380,7 @@ select.selectpicker {
 }
 
 .btn.btn-outline-primary .caret {
-    border-top-color: #3300fe;
+    border-top-color: #6628fe;
 }
 .btn.btn-outline-success .caret {
     border-top-color: #8dbf42;

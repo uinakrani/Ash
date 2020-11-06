@@ -41,7 +41,7 @@ table.dataTable {
     border-bottom: 1px solid #e0e6ed;
 }
 .table > thead > tr > th {
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 700;
     font-size: 13px;
     border: none;
@@ -72,7 +72,7 @@ table.dataTable {
 div.dataTables_wrapper div.dataTables_info {
     padding-top: 0.85em;
     white-space: normal;
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 500;
     border: 1px solid #e0e6ed;
     display: inline-block;
@@ -151,7 +151,7 @@ div.dataTables_wrapper div.dataTables_paginate ul.pagination {
     width: 17px;
 }
 .page-item.active .page-link {
-    background-color: #3300fe;
+    background-color: #6628fe;
 }
 #alter_pagination_next a, #alter_pagination_previous a {
     border-radius: 50%;

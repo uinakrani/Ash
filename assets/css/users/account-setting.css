@@ -44,11 +44,11 @@
 .general-info .info .upload p {
     font-size: 14px;
     font-weight: 500;
-    color: #3300fe;
+    color: #6628fe;
 }
 .general-info .info .upload p i {
     font-size: 22px;
-    color: #3300fe;
+    color: #6628fe;
     vertical-align: middle;
 }
 
@@ -170,7 +170,7 @@
     border: none;
 }
 .input-group .input-group-prepend .input-group-text svg {
-    color: #3300fe;
+    color: #6628fe;
 }
 .social .info input { border-radius: .25rem!important; }
 
@@ -224,7 +224,7 @@
     background: #ffffff;
     padding: 3px 8px;
     border-radius: 5px;
-    color: #3300fe;
+    color: #6628fe;
     border: 1px solid #e0e6ed; 
 }
 .skill .custom-progress.top-right .range-count  {
@@ -236,7 +236,7 @@
 .skill .progress-range-counter::-webkit-slider-thumb {
   -webkit-appearance: none;
   appearance: none;
-  background: #1b55e2;
+  background: #6628fe;
   cursor: pointer;
   height: 16px;
   width: 16px;
@@ -250,7 +250,7 @@
 
 }
 .skill .progress-range-counter:focus::-webkit-slider-thumb {
-  background: #1b55e2;
+  background: #6628fe;
   cursor: pointer;
   height: 16px;
   width: 16px;
@@ -258,7 +258,7 @@
   box-shadow: none;
 }
 .skill .progress-range-counter::-moz-range-thumb {
-  background: #1b55e2;
+  background: #6628fe;
   cursor: pointer;
   height: 16px;
   width: 16px;

@@ -10,7 +10,7 @@
     top: -8px;
 }
 .noUi-handle:after, .noUi-handle:before { display: none; }
-.noUi-connect { background: #1b55e2; }
+.noUi-connect { background: #6628fe; }
 .noUi-tooltip {
     border: 1px solid #e0e6ed;
     border-radius: 8px;
@@ -24,7 +24,7 @@
 .example-val {
     font-weight: 700;
     font-size: 14px;
-    color: #3300fe;
+    color: #6628fe;
 }
 .example-val span.precentage-val {
     display: inline-block;

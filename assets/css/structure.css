@@ -14,11 +14,11 @@ body {
 h1, h2, h3, h4, h5, h6 { color: #3b3f5c; }
 :focus { outline: none; }
 ::-moz-selection { /* Code for Firefox */
-  color: #3300fe;
+  color: #6628fe;
   background: transparent;
 }
 ::selection {
-  color: #3300fe;
+  color: #6628fe;
   background: transparent;
 }
 p { margin-top: 0; margin-bottom: 0.625rem; color: #515365 }
@@ -343,7 +343,7 @@ code { color: #e7515a; }
     padding: 1px 5px 0px;
     font-size: 10px;
     color: #fff!important;
-    background: #1b55e2;
+    background: #6628fe;
     border: 1px solid #e0e6ed;
     top: 10px;
     right: -8px;
@@ -391,7 +391,7 @@ code { color: #e7515a; }
 .navbar .navbar-item .nav-item.dropdown.message-dropdown .dropdown-menu .media .media-body h5.usr-name {
     font-size: 15px;
     margin-bottom: 0px;
-    color: #3300fe;
+    color: #6628fe;
 }
 .navbar .navbar-item .nav-item.dropdown.message-dropdown .dropdown-menu .media .media-body {
     align-self: center;
@@ -443,7 +443,7 @@ code { color: #e7515a; }
     width: 20px;
     height: 20px;
     font-weight: 500;
-    color: #3300fe;
+    color: #6628fe;
     fill: rgba(0, 23, 55, 0.08);
     margin-right: 14px;
     align-self: center;
@@ -458,7 +458,7 @@ code { color: #e7515a; }
 }
 .navbar .navbar-item .nav-item.dropdown.notification-dropdown .dropdown-menu .media-body .notification-para .user-name {
     font-weight: 500;
-    color: #3300fe;
+    color: #6628fe;
     display: inline-block;
 }
 .navbar .navbar-item .nav-item.search-animated {
@@ -583,7 +583,7 @@ code { color: #e7515a; }
     width: 21px;
     margin-right: 16px;
     height: 21px;
-    color: #3300fe;
+    color: #6628fe;
     fill: rgba(0, 23, 55, 0.08);
 }
 
@@ -922,26 +922,26 @@ code { color: #e7515a; }
     border-radius: 50%;
 }
 #sidebar ul.menu-categories ul.submenu > li.active a {
-    color: #3300fe;
+    color: #6628fe;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
     font-weight: 500;
 }
-#sidebar ul.menu-categories li.menu ul.submenu > li.active a:before { background-color: #3300fe; }
+#sidebar ul.menu-categories li.menu ul.submenu > li.active a:before { background-color: #6628fe; }
 #sidebar ul.menu-categories ul.submenu > li.active { position: relative; }
 #sidebar ul.menu-categories ul.submenu > li a:hover {
-    color: #3300fe;
+    color: #6628fe;
 }
 #sidebar ul.menu-categories ul.submenu > li a:hover:before {
-    background-color: #3300fe!important;
+    background-color: #6628fe!important;
 }
 #sidebar ul.menu-categories ul.submenu > li a i {
     align-self: center;
     font-size: 9px;
 }
-#sidebar ul.menu-categories ul.submenu li > [data-active="true"] i { color: #3300fe; }
-#sidebar ul.menu-categories ul.submenu li > [data-active="true"]:before { background-color: #3300fe!important; }
-#sidebar ul.menu-categories ul.submenu li > a[data-active="true"] { color: #3300fe; }
+#sidebar ul.menu-categories ul.submenu li > [data-active="true"] i { color: #6628fe; }
+#sidebar ul.menu-categories ul.submenu li > [data-active="true"]:before { background-color: #6628fe!important; }
+#sidebar ul.menu-categories ul.submenu li > a[data-active="true"] { color: #6628fe; }
 #sidebar ul.menu-categories ul.submenu > li ul.sub-submenu > li a {
     position: relative;
     padding: 10px 12px 10px 48px;
@@ -951,9 +951,9 @@ code { color: #e7515a; }
     color: #515365;
 }
 #sidebar ul.menu-categories ul.submenu > li ul.sub-submenu > li.active a { color: #5c1ac3; }
-#sidebar ul.menu-categories ul.submenu > li ul.sub-submenu > li a:hover { color: #3300fe; }
+#sidebar ul.menu-categories ul.submenu > li ul.sub-submenu > li a:hover { color: #6628fe; }
 #sidebar ul.menu-categories ul.submenu > li ul.sub-submenu > li a:before { display: none; }
-#sidebar ul.menu-categories ul.submenu > li ul.sub-submenu > li.active a:before { background-color: #3300fe; }
+#sidebar ul.menu-categories ul.submenu > li ul.sub-submenu > li.active a:before { background-color: #6628fe; }
 .overlay {
     display: none;
     position: fixed;
@@ -1078,7 +1078,7 @@ code { color: #e7515a; }
         border-radius: 0;
     }
     #sidebar .theme-brand {
-        background-color: #3300fe;
+        background-color: #6628fe;
         padding: 7px 12px 7px 24px;
         border-color: #6d00fe
     }

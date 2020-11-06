@@ -262,7 +262,7 @@
 */
 
 .component-card_7 {
-    background-color: #3300fe;
+    background-color: #6628fe;
     color: #fff;
     border: none;
     width: 18rem;
@@ -309,7 +309,7 @@
 .component-card_8 .progress-order .progress-order-header span.badge { 
 	font-size:12px;
 	padding:6px 10px;
-	color:#1b55e2;
+	color:#6628fe;
 	background-color:#c2d5ff
 }
 .component-card_8 .progress-order .progress-order-body ul li img {
@@ -326,13 +326,13 @@
 }
 .component-card_8 .progress-order .progress-order-body ul li.badge-notify .notification span.badge {
 	background-color:#fff;
-	color:#1b55e2;
+	color:#6628fe;
 	box-shadow:0 0 20px 0 #d0d0d0;
 	font-size:12px;padding:4px 7px
 }
 .component-card_8 .progress-order .progress-order-body .p-o-percentage {
 	font-size:14px;
-	color:#1b55e2
+	color:#6628fe
 }
 .component-card_8 .progress-order .progress-order-body .progress { 
 	height:6px;
@@ -362,7 +362,7 @@
     margin-bottom: 5px;
     font-size: 12px;
     font-weight: 500;
-    color: #3300fe;
+    color: #6628fe;
 }
 .component-card_9 .card-title {
     font-size: 15px;
@@ -421,22 +421,22 @@
 .component-card_9 .meta-likes {
     align-self: center;
     margin-right: 13px;
-    color: #3300fe;
+    color: #6628fe;
 }
 .component-card_9 .meta-likes svg {
     width: 16px;
     vertical-align: sub;
-    color: #3300fe;
+    color: #6628fe;
     fill: rgba(27, 85, 226, 0.23921568627450981);
 }
 .component-card_9 .meta-view {
     align-self: center;
-    color: #3300fe;
+    color: #6628fe;
 }
 .component-card_9 .meta-view svg {
     width: 16px;
     vertical-align: sub;
-    color: #3300fe;
+    color: #6628fe;
     fill: rgba(27, 85, 226, 0.23921568627450981);
 }
 

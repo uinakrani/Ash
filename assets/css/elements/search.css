@@ -115,8 +115,8 @@
     border: 2px dashed #e7515a;
 }
 .searchable-container .items .user-status span.badge.badge-primary {
-    color: #3300fe;
-    border: 2px dashed #1b55e2;
+    color: #6628fe;
+    border: 2px dashed #6628fe;
 }
 .searchable-container .items .action-btn p {
   margin-bottom: 0;
@@ -128,7 +128,7 @@
 .searchable-container .items:hover .user-name p,
 .searchable-container .items:hover .user-work p,
 .searchable-container .items:hover .user-email p,
-.searchable-container .items:hover .action-btn p { color: #3300fe; }
+.searchable-container .items:hover .action-btn p { color: #6628fe; }
 
 
 /*
@@ -221,7 +221,7 @@
     border: 1px solid #ffffff;
     background-color: #ffffff;
 }
-.search-input-group-style.input-group .input-group-prepend .input-group-text svg { color: #3300fe; }
+.search-input-group-style.input-group .input-group-prepend .input-group-text svg { color: #6628fe; }
 .search-input-group-style input {
     border: none;
     border-radius: 4px;

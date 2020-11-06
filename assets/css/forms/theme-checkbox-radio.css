@@ -68,7 +68,7 @@
 .new-control.new-checkbox.new-checkbox-text.checkbox-outline-default>input:checked~span.new-chk-content { color: #888ea8; }
 
 .new-control.new-checkbox.new-checkbox-text.checkbox-primary>input:checked~span.new-chk-content,
-.new-control.new-checkbox.new-checkbox-text.checkbox-outline-primary>input:checked~span.new-chk-content { color: #3300fe; }
+.new-control.new-checkbox.new-checkbox-text.checkbox-outline-primary>input:checked~span.new-chk-content { color: #6628fe; }
 
 .new-control.new-checkbox.new-checkbox-text.checkbox-success>input:checked~span.new-chk-content,
 .new-control.new-checkbox.new-checkbox-text.checkbox-outline-success>input:checked~span.new-chk-content { color: #8dbf42; }
@@ -89,7 +89,7 @@
 .new-control.new-checkbox.new-checkbox-text.checkbox-outline-dark>input:checked~span.new-chk-content { color: #3b3f5c; }
 
 /*  Color   */
-.new-control.new-checkbox.checkbox-primary>input:checked~span.new-control-indicator { background: #1b55e2; }
+.new-control.new-checkbox.checkbox-primary>input:checked~span.new-control-indicator { background: #6628fe; }
 .new-control.new-checkbox.checkbox-success>input:checked~span.new-control-indicator { background: #8dbf42; }
 .new-control.new-checkbox.checkbox-info>input:checked~span.new-control-indicator { background: #2196f3; }
 .new-control.new-checkbox.checkbox-warning>input:checked~span.new-control-indicator { background: #e2a03f; }
@@ -100,7 +100,7 @@
 /*   Outline checkbox   */
 .new-control.new-checkbox[class*="checkbox-outline-"]>input:checked~span.new-control-indicator { background-color: transparent; }
 .new-control.new-checkbox.checkbox-outline-default>input:checked~span.new-control-indicator { border: 2px solid #888ea8; }
-.new-control.new-checkbox.checkbox-outline-primary>input:checked~span.new-control-indicator { border: 2px solid #1b55e2; }
+.new-control.new-checkbox.checkbox-outline-primary>input:checked~span.new-control-indicator { border: 2px solid #6628fe; }
 .new-control.new-checkbox.checkbox-outline-success>input:checked~span.new-control-indicator { border: 2px solid #8dbf42; }
 .new-control.new-checkbox.checkbox-outline-info>input:checked~span.new-control-indicator { border: 2px solid #2196f3; }
 .new-control.new-checkbox.checkbox-outline-warning>input:checked~span.new-control-indicator { border: 2px solid #e2a03f; }
@@ -109,7 +109,7 @@
 .new-control.new-checkbox.checkbox-outline-dark>input:checked~span.new-control-indicator { border: 2px solid #3b3f5c; }
 
 .new-control.new-checkbox.checkbox-outline-default>input:checked~span.new-control-indicator:after { border-color: #888ea8; }
-.new-control.new-checkbox.checkbox-outline-primary>input:checked~span.new-control-indicator:after { border-color: #3300fe; }
+.new-control.new-checkbox.checkbox-outline-primary>input:checked~span.new-control-indicator:after { border-color: #6628fe; }
 .new-control.new-checkbox.checkbox-outline-success>input:checked~span.new-control-indicator:after { border-color: #8dbf42; }
 .new-control.new-checkbox.checkbox-outline-info>input:checked~span.new-control-indicator:after { border-color: #2196f3; }
 .new-control.new-checkbox.checkbox-outline-warning>input:checked~span.new-control-indicator:after { border-color: #e2a03f; }
@@ -165,7 +165,7 @@
 .new-control.new-radio.square-radio span.new-control-indicator:after { border-radius: 0; }
 
 /*  Color   */
-.new-control.new-radio.radio-primary>input:checked~span.new-control-indicator { background: #1b55e2; }
+.new-control.new-radio.radio-primary>input:checked~span.new-control-indicator { background: #6628fe; }
 .new-control.new-radio.radio-success>input:checked~span.new-control-indicator { background: #8dbf42; }
 .new-control.new-radio.radio-info>input:checked~span.new-control-indicator { background: #2196f3; }
 .new-control.new-radio.radio-warning>input:checked~span.new-control-indicator { background: #e2a03f; }
@@ -176,7 +176,7 @@
 /*   Outline Radio   */
 .new-control.new-radio[class*="radio-classic-"]>input:checked~span.new-control-indicator { background-color: transparent; }
 .new-control.new-radio.radio-classic-default>input:checked~span.new-control-indicator { border: 3px solid #888ea8; }
-.new-control.new-radio.radio-classic-primary>input:checked~span.new-control-indicator { border: 3px solid #1b55e2; }
+.new-control.new-radio.radio-classic-primary>input:checked~span.new-control-indicator { border: 3px solid #6628fe; }
 .new-control.new-radio.radio-classic-success>input:checked~span.new-control-indicator { border: 3px solid #8dbf42; }
 .new-control.new-radio.radio-classic-info>input:checked~span.new-control-indicator { border: 3px solid #2196f3; }
 .new-control.new-radio.radio-classic-warning>input:checked~span.new-control-indicator { border: 3px solid #e2a03f; }
@@ -185,7 +185,7 @@
 .new-control.new-radio.radio-classic-dark>input:checked~span.new-control-indicator { border: 3px solid #3b3f5c; }
 
 .new-control.new-radio.radio-classic-default>input:checked~span.new-control-indicator:after { background-color: #888ea8; }
-.new-control.new-radio.radio-classic-primary>input:checked~span.new-control-indicator:after { background-color: #3300fe; }
+.new-control.new-radio.radio-classic-primary>input:checked~span.new-control-indicator:after { background-color: #6628fe; }
 .new-control.new-radio.radio-classic-success>input:checked~span.new-control-indicator:after { background-color: #8dbf42; }
 .new-control.new-radio.radio-classic-info>input:checked~span.new-control-indicator:after { background-color: #2196f3; }
 .new-control.new-radio.radio-classic-warning>input:checked~span.new-control-indicator:after { background-color: #e2a03f; }
@@ -198,7 +198,7 @@
 .new-control.new-radio.new-radio-text.radio-classic-default>input:checked~span.new-radio-content { color: #888ea8; }
 
 .new-control.new-radio.new-radio-text.radio-primary>input:checked~span.new-radio-content,
-.new-control.new-radio.new-radio-text.radio-classic-primary>input:checked~span.new-radio-content { color: #3300fe; }
+.new-control.new-radio.new-radio-text.radio-classic-primary>input:checked~span.new-radio-content { color: #6628fe; }
 
 .new-control.new-radio.new-radio-text.radio-success>input:checked~span.new-radio-content,
 .new-control.new-radio.new-radio-text.radio-classic-success>input:checked~span.new-radio-content { color: #8dbf42; }

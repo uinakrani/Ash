@@ -24,7 +24,7 @@
     border: 1px solid #e0e6ed;
     box-shadow: 0px 3px 11px 0px rgba(31,45,61,.1);
 }
-.popover-primary .arrow:after, .popover-primary .arrow:before { display: none; border-top-color: #3300fe; }
+.popover-primary .arrow:after, .popover-primary .arrow:before { display: none; border-top-color: #6628fe; }
 .popover-primary .popover-header {
     background-color: #515365;
     border-color: #c2d5ff;
@@ -73,12 +73,12 @@
     height: 10px;
     width: 10px;
 }
-.labels .label.label-primary:before { background: #1b55e2; }
+.labels .label.label-primary:before { background: #6628fe; }
 .labels .label.label-warning:before { background: #e2a03f; }
 .labels .label.label-success:before { background: #8dbf42; }
 .labels .label.label-danger:before { background: #e7515a; }
 
-.radio-primary span.new-control-indicator { border: 2px solid #1b55e2; }
+.radio-primary span.new-control-indicator { border: 2px solid #6628fe; }
 .radio-warning span.new-control-indicator { border: 2px solid #e2a03f; }
 .radio-success span.new-control-indicator { border: 2px solid #8dbf42; }
 .radio-danger span.new-control-indicator { border: 2px solid #e7515a; }
@@ -191,10 +191,10 @@ input[readonly] { color: #3b3f5c; }
 }
 #addEventsModal .modal-footer .btn { box-shadow: none; }
 #addEventsModal .modal-footer #add-e {
-    background-color: #3300fe;
+    background-color: #6628fe;
     color: #fff;
     font-weight: 500;
-    border: 1px solid #1b55e2;
+    border: 1px solid #6628fe;
     padding: 10px 25px;
 }
 #addEventsModal .modal-footer #edit-event {
@@ -206,13 +206,13 @@ input[readonly] { color: #3b3f5c; }
 }
 #addEventsModal .modal-footer [data-dismiss="modal"] {
     background-color: #fff;
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 700;
     border: 1px solid #e8e8e8;
     padding: 10px 25px;
 }
 td.fc-today.fc-state-highlight span {
-    background: #1b55e2;
+    background: #6628fe;
     border-radius: 50%;
     color: #fff;
     display: inline-block!important;
@@ -229,7 +229,7 @@ td.fc-today.fc-state-highlight span {
     top: 4px;
     border-radius: 50%;
 }
-.fc-day-grid-event.bg-primary .fc-content:before { background: #1b55e2; }
+.fc-day-grid-event.bg-primary .fc-content:before { background: #6628fe; }
 .fc-day-grid-event.bg-success .fc-content:before { background: #8dbf42; }
 .fc-day-grid-event.bg-warning .fc-content:before { background: #e2a03f; }
 .fc-day-grid-event.bg-danger .fc-content:before { background: #e7515a; }

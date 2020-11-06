@@ -25,8 +25,8 @@
 
 .alert-primary {
     color: #fff;
-    background-color: #3300fe;
-    border-color: #3300fe;
+    background-color: #6628fe;
+    border-color: #6628fe;
 }
 .alert-warning {
     color: #fff;
@@ -57,7 +57,7 @@
 /*Outline Alerts*/
 
 .alert-outline-primary {
-    border-color: #3300fe;
+    border-color: #6628fe;
     border-radius: 5px
 }
 .alert-outline-warning {
@@ -89,11 +89,11 @@
 /*      Light Alert         */
 
 .alert-light-primary {
-    color: #3300fe;
+    color: #6628fe;
     background-color: #c2d5ff;
-    border-color: #3300fe;
+    border-color: #6628fe;
 }
-.alert-light-primary svg.close { color: #3300fe; }
+.alert-light-primary svg.close { color: #6628fe; }
 .alert-light-warning {
     color: #e2a03f;
     background-color: #ffeccb;

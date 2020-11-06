@@ -16,7 +16,7 @@
   background: #ffffff;
   padding: 3px 8px;
   border-radius: 5px;
-  color: #3300fe;
+  color: #6628fe;
   border: 1px solid #e0e6ed; 
 }
 .custom-progress.top-right .range-count  {
@@ -28,7 +28,7 @@
 .progress-range-counter::-webkit-slider-thumb {
   -webkit-appearance: none;
   appearance: none;
-  background: #1b55e2;
+  background: #6628fe;
   cursor: pointer;
     -webkit-transition: all 0.35s ease;
     transition: all 0.35s ease;
@@ -42,6 +42,6 @@
   box-shadow: none;
 }
 .progress-range-counter::-moz-range-thumb {
-  background: #1b55e2;
+  background: #6628fe;
   cursor: pointer;
 }

@@ -104,7 +104,7 @@ $('.snackbar-bg-primary').click(function() {
     Snackbar.show({
         text: 'Primary',
         actionTextColor: '#fff',
-        backgroundColor: '#1b55e2'
+        backgroundColor: 'linear-gradient(-45deg, #8d4ffe 0%, #3f00fe 100%)'
     });
 });
 
@@ -112,7 +112,7 @@ $('.snackbar-bg-info').click(function() {
     Snackbar.show({
         text: 'Info',
         actionTextColor: '#fff',
-        backgroundColor: '#2196f3'
+        backgroundColor: 'linear-gradient(270deg, #1fbdd6 0%, #017c82 100%)'
     });
 });
 
@@ -120,7 +120,7 @@ $('.snackbar-bg-success').click(function() {
     Snackbar.show({
         text: 'Success',
         actionTextColor: '#fff',
-        backgroundColor: '#8dbf42'
+        backgroundColor: 'linear-gradient(270deg, #79b912 0%, #3c5f07 100%)'
     });
 });
 
@@ -128,7 +128,7 @@ $('.snackbar-bg-warning').click(function() {
     Snackbar.show({
         text: 'Warning',
         actionTextColor: '#fff',
-        backgroundColor: '#e2a03f'
+        backgroundColor: 'linear-gradient(270deg, #e28501 0%, #9a5c04 100%)'
     });
 });
 
@@ -136,7 +136,7 @@ $('.snackbar-bg-danger').click(function() {
     Snackbar.show({
         text: 'Danger',
         actionTextColor: '#fff',
-        backgroundColor: '#e7515a'
+        backgroundColor: 'linear-gradient(270deg, #e41616 0%, #801010 100%)'
     });
 });
 
@@ -144,6 +144,6 @@ $('.snackbar-bg-dark').click(function() {
     Snackbar.show({
         text: 'Dark',
         actionTextColor: '#fff',
-        backgroundColor: '#3b3f5c'
+        backgroundColor: 'linear-gradient(270deg, #2c076f 0%, #0d0721 100%)'
     });
 });

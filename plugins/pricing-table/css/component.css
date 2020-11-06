@@ -46,8 +46,8 @@
 	transition: border-color 0.3s, background 0.3s;
 }
 .pricing--norbu .pricing__item:hover {
-    color: #3300fe;
-    border: 1px solid #1b55e2;
+    color: #6628fe;
+    border: 1px solid #6628fe;
 }
 .pricing--norbu .pricing__title {
 	font-size: 26px;
@@ -66,7 +66,7 @@
 	bottom: 0;
 }
 .pricing--norbu .pricing__item:hover .pricing__title::after {
-    background: #1b55e2;
+    background: #6628fe;
 }
 .pricing--norbu .icon {
 	display: inline-block;
@@ -118,9 +118,9 @@
 	transition: background 0.3s;    
 }
 .pricing--norbu .pricing__item:hover .pricing__action {
-    color: #3300fe;
+    color: #6628fe;
     background: #c2d5ff;
-    border: solid 1px #1b55e2;
+    border: solid 1px #6628fe;
     box-shadow: 0px 5px 20px 0 rgba(0, 0, 0, 0.1);
     will-change: opacity, transform;
     transition: all 0.3s ease-out;
@@ -129,8 +129,8 @@
 .pricing--norbu .pricing__action:hover,
 .pricing--norbu .pricing__action:focus {
     color: #c2d5ff;
-    background: #1b55e2;
-    border-color: #3300fe;
+    background: #6628fe;
+    border-color: #6628fe;
     box-shadow: 0px 5px 20px 0 rgba(0, 0, 0, 0.1);
     will-change: opacity, transform;
     transition: all 0.3s ease-out;
@@ -179,7 +179,7 @@
     -moz-box-shadow: 0px 0px 15px 1px rgba(113, 106, 202, 0.2);
     box-shadow: 0px 0px 15px 1px rgba(113, 106, 202, 0.2);
     border-radius: 0.25rem;
-    border: 2px solid #1b55e2;
+    border: 2px solid #6628fe;
     background: #fff;
     font-weight: 700;
 }
@@ -222,11 +222,11 @@
     border: 2px solid #bfc9d4;
 }
 .switch.s-icons.s-outline-primary {
-    color: #3300fe;
+    color: #6628fe;
     margin: 0 3px 0 11px;
 }
 .switch.s-icons .slider:before {
-    content: url('data:image/svg+xml, <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="%231b55e2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>')!important;
+    content: url('data:image/svg+xml, <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="%236628fe" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>')!important;
 }
 .switch.s-icons input:checked + .slider:before {
     content: url('data:image/svg+xml, <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="%23fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check"><polyline points="20 6 9 17 4 12"></polyline></svg>')!important;
@@ -345,11 +345,11 @@
     font-weight: 500;
 }
 .billed-yearly-radio span.txt-monthly {
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 700;
 }
 .billed-yearly-radio.billed-yearly-switch span.txt-yearly {
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 700;
 }
 .billed-yearly-radio span.txt-yearly span.badge {
@@ -369,7 +369,7 @@
     margin: 6rem 0 0 0;
 }
 .pricing-plan .recommended-badge {
-    background-color: #3300fe;
+    background-color: #6628fe;
     color: #fff;
     position: absolute;
     width: 100%;
@@ -387,13 +387,13 @@
     color: #acb0c3;
 }
 .recommended .pricing-plan-label strong {
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 700;
     font-size: 44px;
 }
 .pricing-plan.recommended .button {
 	color: #fff!important;
-    background-color: #3300fe!important;
+    background-color: #6628fe!important;
 }
 
 @media (max-width: 767px) {

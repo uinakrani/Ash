@@ -6,8 +6,8 @@
     background: transparent;
 }
 #column-filter .badge-primary {
-    color: #3300fe;
-    border: 2px dashed #1b55e2;
+    color: #6628fe;
+    border: 2px dashed #6628fe;
 }
 #column-filter .badge-warning {
     color: #e2a03f;
@@ -19,8 +19,8 @@
 }
 .toggle-list a {
     color: #fff !important;
-    background-color: #3300fe!important;
-    border-color: #3300fe;
+    background-color: #6628fe!important;
+    border-color: #6628fe;
     margin-top: 13px;
     margin-bottom: 13px;
     margin-right: 5px;

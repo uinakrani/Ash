@@ -78,7 +78,7 @@ body {
     margin-top: 0;
 }
 .form-form .form-form-wrap p.signup-link.recovery { margin-top: 0; }
-.form-form .form-form-wrap p.signup-link a { color: #3300fe; border-bottom: 1px solid; }
+.form-form .form-form-wrap p.signup-link a { color: #6628fe; border-bottom: 1px solid; }
 .form-form .form-form-wrap form .field-wrapper.input {
     padding: 11px 0px 16px 0;
     border-bottom: none;
@@ -107,7 +107,7 @@ body {
     padding-left: 31px;
     font-weight: 100;
 }
-.form-form .form-form-wrap form .field-wrapper.terms_condition a { color: #3300fe; }
+.form-form .form-form-wrap form .field-wrapper.terms_condition a { color: #6628fe; }
 .form-form .form-form-wrap form .field-wrapper svg.feather-user { top: 53px; }
 .form-form .form-form-wrap form .field-wrapper svg.feather-lock { top: 50px; }
 .form-form .form-form-wrap form .field-wrapper svg.feather-at-sign { top: 47px; }
@@ -188,8 +188,8 @@ body {
     width: 181px;
 }
 .form-form .form-form-wrap form .social a.social-fb { margin-right: 15px; }
-.form-form .form-form-wrap form .social a.social-fb svg { color: #3300fe; }
-.form-form .form-form-wrap form .social a.social-fb .brand-name { color: #3300fe; }
+.form-form .form-form-wrap form .social a.social-fb svg { color: #6628fe; }
+.form-form .form-form-wrap form .social a.social-fb .brand-name { color: #6628fe; }
 @media (max-width: 991px) {
     .form-form { width: 100%; }
     .form-form .form-form-wrap { min-width: auto; margin: 0 auto; }

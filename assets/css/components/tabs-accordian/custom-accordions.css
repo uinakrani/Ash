@@ -25,7 +25,7 @@ h1,h2,h3,h4,h5,h6 { color: #3b3f5c; }
 }
 .card-header section > div.collapsed { color: #888ea8; }
 .card-header section > div:not(.collapsed) {
-    color: #3300fe;
+    color: #6628fe;
     border-bottom: 2px solid #e0e6ed;
     font-weight: 500;
 }
@@ -54,7 +54,7 @@ h1,h2,h3,h4,h5,h6 { color: #3b3f5c; }
     font-size: 13px;
     font-weight: 500;
 }
-.card .card-body ul li a:hover { color: #3300fe; }
+.card .card-body ul li a:hover { color: #6628fe; }
 
 
 /*
@@ -97,6 +97,6 @@ h1,h2,h3,h4,h5,h6 { color: #3b3f5c; }
     fill: rgba(0, 23, 55, 0.08);
 }
 .accordion-icons div:not(.collapsed) .accordion-icon svg {
-    color: #3300fe;
+    color: #6628fe;
     fill: rgba(27, 85, 226, 0.23921568627450981);
 }

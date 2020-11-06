@@ -92,7 +92,7 @@
     box-shadow: 0px 2px 4px rgba(126,142,177,0.12);
     width: 43px;
     height: 41px;
-    color: #3300fe;
+    color: #6628fe;
     fill: rgba(27, 85, 226, 0.23921568627450981);
 }
 .searchable-container #btn-add-contact:hover {
@@ -193,7 +193,7 @@
 }
 .searchable-container .modal-footer .btn[data-dismiss="modal"] {
     background-color: #fff;
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 700;
     border: 1px solid #e8e8e8;
     padding: 10px 25px;
@@ -204,10 +204,10 @@
     margin-right: 8px;
 }
 .searchable-container .modal-footer .btn#btn-add {
-    background-color: #3300fe;
+    background-color: #6628fe;
     color: #fff;
     font-weight: 500;
-    border: 1px solid #1b55e2;
+    border: 1px solid #6628fe;
     padding: 10px 25px;
 }
 .searchable-container .modal-footer .btn#btn-edit {
@@ -219,11 +219,11 @@
 }
 .searchable-container .switch .view-grid:hover,
 .searchable-container .switch .view-list:hover {
-  color: #3300fe;
+  color: #6628fe;
   fill: rgba(27, 85, 226, 0.23921568627450981);
 }
 .searchable-container .switch .active-view {
-  color: #3300fe;
+  color: #6628fe;
   fill: rgba(27, 85, 226, 0.23921568627450981);
 }
 .searchable-container .searchable-items.list .items.items-header-section h4 {
@@ -319,7 +319,7 @@
     fill: rgba(27, 85, 226, 0.23921568627450981);
 }
 .searchable-container .searchable-items.list .items .action-btn .delete-multiple:hover {
-    color: #3300fe;
+    color: #6628fe;
 }
 .searchable-container .searchable-items.list .items .action-btn .edit {
     margin-right: 5px;
@@ -337,7 +337,7 @@
 }
 .searchable-container .searchable-items.list .items .action-btn .edit:hover,
 .searchable-container .searchable-items.list .items .action-btn .delete:hover {
-    color: #3300fe;
+    color: #6628fe;
 }
 .searchable-items.grid {
   display: -ms-flexbox;
@@ -470,7 +470,7 @@
 }
 .searchable-container .searchable-items.grid .items .action-btn .edit:hover,
 .searchable-container .searchable-items.grid .items .action-btn .delete:hover {
-  color: #3300fe;
+  color: #6628fe;
 }
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
   /* IE10+ CSS styles go here */

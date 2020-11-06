@@ -166,7 +166,7 @@
 }
 .tab-title .nav-pills .nav-link.active, .tab-title .nav-pills .show>.nav-link {
     background-color: transparent;
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 500;
     fill: rgba(27, 85, 226, 0.23921568627450981);
 }
@@ -202,7 +202,7 @@
 }
 .tab-title .nav-pills .nav-link.active svg,
 .tab-title .nav-pills .show>.nav-link svg {
-    color: #3300fe;
+    color: #6628fe;
 }
 .tab-title .nav-pills a.nav-link svg {
     width: 19px;
@@ -217,7 +217,7 @@
     padding: 0;
 }
 .tab-title .nav-pills a.nav-link .mail-badge {
-    background: #1b55e2;
+    background: #6628fe;
     border-radius: 50%;
     position: absolute;
     right: 8px;
@@ -292,7 +292,7 @@
 }
 .tab-title li.mail-labels a.dropdown-item:hover {
     background-color: #fff;
-    color: #3300fe;
+    color: #6628fe;
 }
 .tab-title li.mail-labels .label:after {
     position: absolute;
@@ -465,7 +465,7 @@
 }
 .mailbox-inbox .mail-item div.mail-item-heading:hover {
     background: #ebedf2;
-    border: 1px solid #1b55e2!important;
+    border: 1px solid #6628fe!important;
 }
 .mailbox-inbox .mail-item div.mail-item-heading .mail-item-inner {
     padding-left: 15px;
@@ -630,7 +630,7 @@
 .content-box .mail-title {
     font-size: 24px;
     font-weight: 500;
-    color: #3300fe;
+    color: #6628fe;
     margin-bottom: 0;
     align-self: center;
 }
@@ -821,7 +821,7 @@
 .compose-box .compose-content form .mail-form select {
     padding: 5px;
     font-weight: 700;
-    color: #3300fe;
+    color: #6628fe;
     margin-left: 10px;
     border-radius: 6px;
     border: 1px solid #d3d3d3;
@@ -830,21 +830,21 @@
     align-self: center;
     font-size: 19px;
     margin-right: 14px;
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 500;
 }
 .compose-box .compose-content form .mail-cc svg {
     align-self: center;
     font-size: 19px;
     margin-right: 14px;
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 500;
 }
 .compose-box .compose-content form .mail-subject svg {
     align-self: center;
     font-size: 19px;
     margin-right: 14px;
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 500;
 }
 .compose-box .compose-content form #editor-container h1 { color: #3b3f5c; }
@@ -855,7 +855,7 @@
 }
 #composeMailModal .modal-footer .btn[data-dismiss="modal"] {
     background-color: #fff;
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 700;
     border: 1px solid #e8e8e8;
     padding: 10px 25px;
@@ -868,10 +868,10 @@
 #composeMailModal .modal-footer #btn-reply,
 #composeMailModal .modal-footer #btn-fwd,
 #composeMailModal .modal-footer #btn-send {
-    background-color: #3300fe;
+    background-color: #6628fe;
     color: #fff;
     font-weight: 500;
-    border: 1px solid #1b55e2;
+    border: 1px solid #6628fe;
     padding: 10px 25px;
 }
 #composeMailModal .modal-footer #btn-reply.disabled,

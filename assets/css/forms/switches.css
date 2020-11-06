@@ -51,7 +51,7 @@
 /* Solid Switches*/
 
 .switch.s-default .slider:before { background-color: #d3d3d3; }
-.switch.s-primary .slider:before { background-color: #3300fe; }
+.switch.s-primary .slider:before { background-color: #6628fe; }
 .switch.s-success .slider:before { background-color: #8dbf42; }
 .switch.s-warning .slider:before { background-color: #e2a03f; }
 .switch.s-danger .slider:before { background-color: #e7515a; }
@@ -62,8 +62,8 @@
 
 .switch.s-default input:checked + .slider { background-color: #d3d3d3; }
 .switch.s-default input:focus + .slider { box-shadow: 0 0 1px #ebedf2; }
-.switch.s-primary input:checked + .slider { background-color: #3300fe; }
-.switch.s-primary input:focus + .slider { box-shadow: 0 0 1px #1b55e2; }
+.switch.s-primary input:checked + .slider { background-color: #6628fe; }
+.switch.s-primary input:focus + .slider { box-shadow: 0 0 1px #6628fe; }
 .switch.s-success input:checked + .slider { background-color: #8dbf42; }
 .switch.s-success input:focus + .slider { box-shadow: 0 0 1px #8dbf42; }
 .switch.s-warning input:checked + .slider { background-color: #e2a03f; }
@@ -94,7 +94,7 @@
     box-shadow: 0 1px 15px 1px rgba(52, 40, 104, 0.25);
 }
 .switch.s-icons.s-outline-default { color: #d3d3d3; }
-.switch.s-icons.s-outline-primary { color: #3300fe; }
+.switch.s-icons.s-outline-primary { color: #6628fe; }
 .switch.s-icons.s-outline-success { color: #8dbf42; }
 .switch.s-icons.s-outline-warning { color: #e2a03f; }
 .switch.s-icons.s-outline-danger { color: #e7515a; }
@@ -109,13 +109,13 @@
   box-shadow: 0 1px 15px 1px rgba(52, 40, 104, 0.25);
 }
 .switch.s-outline-default input:focus + .slider { box-shadow: 0 0 1px #ebedf2; }
-.switch.s-outline-primary input:checked + .slider { border: 2px solid #1b55e2; }
+.switch.s-outline-primary input:checked + .slider { border: 2px solid #6628fe; }
 .switch.s-outline-primary input:checked + .slider:before {
-  border: 2px solid #1b55e2;
-  background-color: #3300fe;
+  border: 2px solid #6628fe;
+  background-color: #6628fe;
   box-shadow: 0 1px 15px 1px rgba(52, 40, 104, 0.34);
 }
-.switch.s-outline-primary input:focus + .slider { box-shadow: 0 0 1px #1b55e2; }
+.switch.s-outline-primary input:focus + .slider { box-shadow: 0 0 1px #6628fe; }
 .switch.s-outline-success input:checked + .slider { border: 2px solid #8dbf42; }
 .switch.s-outline-success input:checked + .slider:before {
   border: 2px solid #8dbf42;

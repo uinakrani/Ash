@@ -3,7 +3,7 @@
   position: relative;
   display: block; }
   .custom-file-container label {
-      color: #3300fe;
+      color: #6628fe;
   }
   .custom-file-container label .custom-file-container__image-clear {
       color: #3b3f5c;
@@ -59,7 +59,7 @@
           padding: 10px 16px;
           line-height: 1.25;
           background-color: rgba(27, 85, 226, 0.23921568627450981);
-          color: #3300fe;
+          color: #6628fe;
           border-left: 1px solid #e0e6ed;
           box-sizing: border-box; }
       .custom-file-container__custom-file__custom-file-control__button:hover {}
@@ -104,6 +104,6 @@
         background: #cbcbbd;
         cursor: pointer; }
       .custom-file-container__image-multi-preview__single-image-clear__icon {
-        color: #3300fe;
+        color: #6628fe;
         display: block;
         margin-top: -2px; }

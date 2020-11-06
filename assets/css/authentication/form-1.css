@@ -50,7 +50,7 @@ body {
     margin-bottom: 0;
 }
 .form-form .form-form-wrap h1 .brand-name {
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 500;
 }
 .form-form .form-form-wrap p.signup-link {
@@ -60,7 +60,7 @@ body {
     margin-bottom: 50px;
 }
 .form-form .form-form-wrap p.signup-link a {
-    color: #3300fe;
+    color: #6628fe;
     border-bottom: 1px solid;
 }
 .form-form .form-form-wrap form .field-wrapper.input {
@@ -81,7 +81,7 @@ body {
 .form-form .form-form-wrap form .field-wrapper svg {
     position: absolute;
     top: 16px;
-    color: #3300fe;
+    color: #6628fe;
     fill: rgba(27, 85, 226, 0.23921568627450981);
 }
 .form-form .form-form-wrap form .field-wrapper.terms_condition { margin-bottom: 20px; }
@@ -91,7 +91,7 @@ body {
     padding-left: 31px;
     font-weight: 100;
 }
-.form-form .form-form-wrap form .field-wrapper.terms_condition a { color: #3300fe; }
+.form-form .form-form-wrap form .field-wrapper.terms_condition a { color: #6628fe; }
 .form-form .form-form-wrap form .field-wrapper input {
     display: inline-block;
     vertical-align: middle;
@@ -122,7 +122,7 @@ body {
     color: #d3d3d3;
     font-size: 14px;
 }
-.form-form .form-form-wrap form .field-wrapper input:focus { border-bottom: 1px solid #1b55e2; box-shadow: none; }
+.form-form .form-form-wrap form .field-wrapper input:focus { border-bottom: 1px solid #6628fe; box-shadow: none; }
 .form-form .form-form-wrap form .field-wrapper {}
 .form-form .form-form-wrap form .field-wrapper.toggle-pass {
     align-self: center;
@@ -133,7 +133,7 @@ body {
 .form-form .form-form-wrap form .field-wrapper a.forgot-pass-link {
     width: 100%;
     font-weight: 700;
-    color: #3300fe;
+    color: #6628fe;
     text-align: center;
     display: block;
     letter-spacing: 2px;
@@ -156,7 +156,7 @@ body {
     margin-top: 90px;
 }
 .form-form .terms-conditions a {
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 700;
 }
 .form-image {

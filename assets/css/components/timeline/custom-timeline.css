@@ -149,13 +149,13 @@
     border-bottom-width: 0;
     border-radius: 0;
 }
-.timeline-line .item-timeline .t-dot.t-dot-primary:before { border-color: #3300fe; }
+.timeline-line .item-timeline .t-dot.t-dot-primary:before { border-color: #6628fe; }
 .timeline-line .item-timeline .t-dot.t-dot-success:before { border-color: #8dbf42; }
 .timeline-line .item-timeline .t-dot.t-dot-warning:before { border-color: #e2a03f; }
 .timeline-line .item-timeline .t-dot.t-dot-info:before { border-color: #2196f3; }
 .timeline-line .item-timeline .t-dot.t-dot-danger:before { border-color: #e7515a; }
 .timeline-line .item-timeline .t-dot.t-dot-dark:before { border-color: #3b3f5c; }
-.timeline-line .item-timeline .t-dot.t-dot-primary:after { border-color: #3300fe; }
+.timeline-line .item-timeline .t-dot.t-dot-primary:after { border-color: #6628fe; }
 .timeline-line .item-timeline .t-dot.t-dot-success:after { border-color: #8dbf42; }
 .timeline-line .item-timeline .t-dot.t-dot-warning:after { border-color: #e2a03f; }
 .timeline-line .item-timeline .t-dot.t-dot-info:after { border-color: #2196f3; }
@@ -183,7 +183,7 @@
     font-weight: 500;
 }
 .timeline-line .item-timeline .t-text p a {
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 500;
 }
 .timeline-line .item-timeline .t-time {
@@ -320,7 +320,7 @@
     align-self: center;
     justify-content: center;
     margin-bottom: 0;
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 700;
     font-size: 18px;
     z-index: 7;
@@ -350,7 +350,7 @@
     font-weight: 500;
 }
 .timeline-alter .item-timeline .t-text p a {
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 500;
 }
 
@@ -375,7 +375,7 @@
     position: relative;
     font-size: 19px;
     font-weight: 500;
-    color: #3300fe;
+    color: #6628fe;
     margin-bottom: 28px;
 }
 .timeline-simple p.timeline-title:before {
@@ -383,7 +383,7 @@
     content: "";
     height: 2px;
     width: 70px;
-    background: #1b55e2;
+    background: #6628fe;
     border-radius: 50px;
     bottom: -2px;
     left: 15px;
@@ -433,7 +433,7 @@
     font-size: 20px;
     font-weight: 700;
     margin-bottom: 0;
-    color: #3300fe;
+    color: #6628fe;
 }
 .timeline-simple .timeline-list .timeline-post-content .meta-time-date { }
 .timeline-simple .timeline-list .timeline-post-content svg {
@@ -443,7 +443,7 @@
     height: 21px;
 }
 .timeline-simple .timeline-list .timeline-post-content:hover svg {
-    color: #3300fe;
+    color: #6628fe;
     fill: rgba(27, 85, 226, 0.23921568627450981);
 }
 .timeline-simple .timeline-list .timeline-post-content svg.feather-calendar {  }

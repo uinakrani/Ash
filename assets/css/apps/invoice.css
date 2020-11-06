@@ -205,7 +205,7 @@
     margin-right: 15px;
 }
 .invoice-inbox .invoice-action svg:hover {
-    color: #3300fe;
+    color: #6628fe;
     fill: rgba(27, 85, 226, 0.23921568627450981);
 }
 .invoice-inbox #ct {
@@ -249,7 +249,7 @@
     width: 42px;
     height: 42px;
     margin-right: 10px;
-    color: #3300fe;
+    color: #6628fe;
     fill: rgba(27, 85, 226, 0.23921568627450981);
 }
 .invoice .content-section .inv--head-section .inv-brand-name {
@@ -270,7 +270,7 @@
     font-weight: 700;
     margin-bottom: 2px;
     font-size: 13px;
-    color: #3300fe;
+    color: #6628fe;
 }
 .invoice .content-section .inv--detail-section .inv-detail-title {
     font-weight: 700;
@@ -304,7 +304,7 @@
 .invoice .content-section .inv--detail-section .inv-list-number .inv-number {
     font-weight: 700;
     font-size: 13px;
-    color: #3300fe;
+    color: #6628fe;
 }
 
 /*inv-created-date*/
@@ -347,7 +347,7 @@
 }
 .invoice .content-section .inv--product-table-section th {
     border: none;
-    color: #3300fe;
+    color: #6628fe;
 }
 .invoice .content-section .inv--product-table-section td {
     border-top: 1px solid #e0e6ed;
@@ -362,7 +362,7 @@
     margin-bottom: 52px;
 }
 .invoice .content-section .inv--payment-info .inv-title {
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 500;
     margin-bottom: 15px;
 }

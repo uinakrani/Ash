@@ -37,7 +37,7 @@
 .popover-primary .popover-header {
 	background-color: #c2d5ff;
     border: none;
-    color: #3300fe;
+    color: #6628fe;
 }
 .popover-success .popover-header {
 	background-color: #e6ffbf;
@@ -74,7 +74,7 @@
 
 .popover-primary .popover-body {
 	background-color: #c2d5ff;
-    color: #3300fe;
+    color: #6628fe;
 }
 .popover-success .popover-body {
 	background-color: #e6ffbf;

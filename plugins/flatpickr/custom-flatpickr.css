@@ -26,11 +26,11 @@
     height: 40px;
 }
 .flatpickr-months .flatpickr-prev-month:hover svg, .flatpickr-months .flatpickr-next-month:hover svg {
-    fill: #1b55e2;
+    fill: #6628fe;
 }
 .flatpickr-day.today {
-    border-color: #3300fe;
-    color: #3300fe;
+    border-color: #6628fe;
+    color: #6628fe;
     font-weight: 700;
 }
 .flatpickr-current-month .flatpickr-monthDropdown-months {
@@ -84,9 +84,9 @@ span.flatpickr-weekday {
 .flatpickr-day.selected.nextMonthDay,
 .flatpickr-day.startRange.nextMonthDay,
 .flatpickr-day.endRange.nextMonthDay {
-    background: #1b55e2;
+    background: #6628fe;
     color: #fff;
-    border-color: #3300fe;
+    border-color: #6628fe;
     font-weight: 500;
 }
 

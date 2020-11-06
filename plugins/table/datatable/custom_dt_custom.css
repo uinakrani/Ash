@@ -15,7 +15,7 @@ table.dataTable {
     border-left: none!important;
 }
 .table-hover:not(.table-dark) tbody tr:hover .new-control.new-checkbox .new-control-indicator {
-    border: 2px solid #1b55e2;
+    border: 2px solid #6628fe;
 }
 
 /*Style. 1*/
@@ -59,8 +59,8 @@ table.dataTable {
     transform: none;
 }
 .style-2 .badge-primary {
-    color: #3300fe;
-    border: 2px dashed #1b55e2;
+    color: #6628fe;
+    border: 2px dashed #6628fe;
 }
 .style-2 .badge-warning {
     color: #e2a03f;
@@ -93,8 +93,8 @@ table.dataTable {
     transform: none;
 }
 .style-3 .badge-primary {
-    color: #3300fe;
-    border: 2px dashed #1b55e2;
+    color: #6628fe;
+    border: 2px dashed #6628fe;
 }
 .style-3 .badge-warning {
     color: #e2a03f;

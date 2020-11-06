@@ -202,7 +202,7 @@
 .widget-activity-three .timeline-line .item-timeline .t-dot { position: relative; }
 
 .widget-activity-three .timeline-line .item-timeline .t-dot div {
-    background: #1b55e2;
+    background: #6628fe;
     border-radius: 50%;
     padding: 5px;
     margin-right: 11px;
@@ -212,8 +212,8 @@
     width: 36px;
 }
 .widget-activity-three .timeline-line .item-timeline .t-dot div.t-primary {
-    background-color: #3300fe;
-    box-shadow: 0 10px 20px -10px #1b55e2;
+    background-color: #6628fe;
+    box-shadow: 0 10px 20px -10px #6628fe;
 }
 .widget-activity-three .timeline-line .item-timeline .t-dot div.t-success {
     background-color: #009688;
@@ -275,7 +275,7 @@
 }
 .widget-activity-three .timeline-line .item-timeline .t-content div.tags .badge-primary {
     background-color: #c2d5ff;
-    color: #3300fe;
+    color: #6628fe;
     
 }
 
@@ -345,8 +345,8 @@
     background: #c2d5ff;
 }
 .widget-one_hybrid.widget-followers .widget-heading .w-icon {
-    color: #3300fe;
-    border: 1px solid #1b55e2;
+    color: #6628fe;
+    border: 1px solid #6628fe;
 }
 .widget-one_hybrid.widget-referral {
     background: #ffe1e2;
@@ -474,7 +474,7 @@
     padding: 0 20px;
 }
 .widget-card-one .widget-content .w-action svg {
-    color: #3300fe;
+    color: #6628fe;
     fill: #c2d5ff;
 }
 .widget-card-one .widget-content .w-action span {
@@ -542,7 +542,7 @@
     background: #ffeccb ;
 }
 .widget-four .widget-content .browser-list:nth-child(1) .w-icon svg {
-    color: #3300fe;
+    color: #6628fe;
 }
 .widget-four .widget-content .browser-list:nth-child(2) .w-icon svg {
     color: #e7515a;
@@ -651,7 +651,7 @@
 .widget-card-two .card-bottom-section a {
     display: block;
     margin-top: 18px;
-    background: #1b55e2;
+    background: #6628fe;
     color: #fff;
     padding: 10px 10px;
     transform: none;
@@ -663,7 +663,7 @@
 }
 .widget-card-two .card-bottom-section a.btn:hover,
 .widget-card-two .card-bottom-section a.btn:focus  {
-    border-color: #3300fe;
+    border-color: #6628fe;
 }
 
 /*
@@ -722,7 +722,7 @@
 .widget-five .w-content div .task-left {
     margin-bottom: 0;
     font-size: 30px;
-    color: #3300fe;
+    color: #6628fe;
     background: #c2d5ff;
     font-weight: 500;
     border-radius: 50%;

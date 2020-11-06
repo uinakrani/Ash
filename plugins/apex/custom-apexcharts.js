@@ -11,7 +11,7 @@ var sline = {
       show: false,
     }
   },
-  // colors: ['#1b55e2'],
+  // colors: ['#6628fe'],
   dataLabels: {
     enabled: false
   },
@@ -55,7 +55,7 @@ var sLineArea = {
           show: false,
         }
     },
-    // colors: ['#1b55e2', '#888ea8'],
+    // colors: ['#6628fe', '#888ea8'],
     dataLabels: {
         enabled: false
     },
@@ -105,7 +105,7 @@ var sCol = {
             endingShape: 'rounded'  
         },
     },
-    // colors: ['#888ea8', '#1b55e2'],
+    // colors: ['#888ea8', '#6628fe'],
     dataLabels: {
         enabled: false
     },
@@ -161,7 +161,7 @@ var sColStacked = {
           show: false,
         }
     },
-    // colors: ['#1b55e2', '#888ea8', '#acb0c3', '#d3d3d3'],
+    // colors: ['#6628fe', '#888ea8', '#acb0c3', '#d3d3d3'],
     responsive: [{
         breakpoint: 480,
         options: {
@@ -220,7 +220,7 @@ var sBar = {
           show: false,
         }
     },
-    // colors: ['#1b55e2'],
+    // colors: ['#6628fe'],
     plotOptions: {
         bar: {
             horizontal: true,
@@ -255,7 +255,7 @@ var options = {
       show: false,
     }
   },
-  // colors: ['#1b55e2', '#888ea8'],
+  // colors: ['#6628fe', '#888ea8'],
   series: [{
     name: 'Website Blog',
     type: 'column',
@@ -308,7 +308,7 @@ var donutChart = {
           show: false,
         }
     },
-    // colors: ['#1b55e2', '#888ea8', '#acb0c3', '#d3d3d3'],
+    // colors: ['#6628fe', '#888ea8', '#acb0c3', '#d3d3d3'],
     series: [44, 55, 41, 17],
     responsive: [{
         breakpoint: 480,
@@ -341,7 +341,7 @@ var radialChart = {
           show: false,
         }
     },
-    // colors: ['#1b55e2', '#888ea8', '#acb0c3', '#d3d3d3'],
+    // colors: ['#6628fe', '#888ea8', '#acb0c3', '#d3d3d3'],
     plotOptions: {
         radialBar: {
             dataLabels: {

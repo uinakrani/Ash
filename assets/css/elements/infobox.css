@@ -16,7 +16,7 @@
     height: 50px;
     stroke-width: 1px;
     margin-bottom: 20px;
-    color: #3300fe;
+    color: #6628fe;
 }
 .infobox-1 .info-heading {
     font-weight: 500;
@@ -30,7 +30,7 @@
     margin-bottom: 15px;
 }
 .infobox-1 .info-link {
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 500;
 }
 .infobox-1 .info-link svg {
@@ -104,7 +104,7 @@
 .infobox-3 .info-icon {
     position: absolute;
     margin-bottom: 20px;
-    background: #1b55e2;
+    background: #6628fe;
     display: inline-block;
     top: -31px;
     padding: 6px;
@@ -128,7 +128,7 @@
     margin-bottom: 15px;
 }
 .infobox-3 .info-link {
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 500;
 }
 .infobox-3 .info-link svg {

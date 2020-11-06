@@ -48,7 +48,7 @@
 .breadcrumb-two .breadcrumb li { float: left; }
 .breadcrumb-two .breadcrumb-item+.breadcrumb-item::before { color: #fff; }
 .breadcrumb-two .breadcrumb li a {
-  color: #3300fe;
+  color: #6628fe;
   text-decoration: none; 
   padding: 6px 0 6px 40px;
   background: #ebedf2;
@@ -92,10 +92,10 @@
     border-bottom-left-radius: 6px;
 }
 .breadcrumb-two .breadcrumb li.active a {
-    background: #1b55e2;
+    background: #6628fe;
     color: #fff;
 }
-.breadcrumb-two .breadcrumb li.active a:after { border-left-color: #3300fe; }
+.breadcrumb-two .breadcrumb li.active a:after { border-left-color: #6628fe; }
 .breadcrumb-two .breadcrumb li:last-child a {
     pointer-events: none;
     cursor: default;
@@ -124,7 +124,7 @@
     border-top-right-radius: 13px;
 }
 .breadcrumb-three .breadcrumb-item.active {
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 500;
 }
 .breadcrumb-three .breadcrumb-item+.breadcrumb-item::before {
@@ -166,7 +166,7 @@
     border-radius: 50%;
     height: 4px;
     width: 4px;
-    background: #1b55e2;
+    background: #6628fe;
     left: -13px;
     top: 50%;
 }
@@ -188,7 +188,7 @@
     color: #6d00fe!important;
     font-weight: 500;
 }
-.breadcrumb-four .breadcrumb li.active svg { color: #3300fe; }
+.breadcrumb-four .breadcrumb li.active svg { color: #6628fe; }
 .breadcrumb-four .breadcrumb li span { vertical-align: text-bottom; }
 
 /*
@@ -213,7 +213,7 @@
     border-radius: 50%;
     height: 4px;
     width: 4px;
-    background: #1b55e2;
+    background: #6628fe;
     left: -13px;
     top: 50%;
 }

@@ -80,7 +80,7 @@
     border-right: 1px solid #e0e6ed;
 }
 .tab-title svg.feather-clipboard {
-    color: #3300fe;
+    color: #6628fe;
     fill: rgba(27, 85, 226, 0.23921568627450981);
     margin-bottom: 13px;
 }
@@ -99,7 +99,7 @@
     color: #fff;
     bottom: 32px;
     left: 17%;
-    background-color: #3300fe;
+    background-color: #6628fe;
 }
 .tab-title #addTask svg { margin-right: 5px; }
 .tab-title.mail-menu-show {
@@ -119,13 +119,13 @@
 }
 .tab-title .nav-pills {}
 .tab-title .nav-pills .nav-link.active svg {
-    color: #3300fe;
+    color: #6628fe;
     fill: rgba(27, 85, 226, 0.23921568627450981);
 }
 .tab-title .nav-pills .nav-link.active {
     background-color: transparent;
-    color: #3300fe;
-    color: #3300fe;
+    color: #6628fe;
+    color: #6628fe;
     background: #ebedf2;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;
@@ -159,9 +159,9 @@
     top: 11px;
     color: #6d00fe!important;
 }
-.tab-title .nav-pills a.nav-link:hover { color: #3300fe; }
+.tab-title .nav-pills a.nav-link:hover { color: #6628fe; }
 .tab-title .nav-pills a.nav-link:hover svg {
-    color: #3300fe;
+    color: #6628fe;
     fill: rgba(27, 85, 226, 0.23921568627450981);
 }
 .tab-title .nav-pills a.nav-link svg {
@@ -347,7 +347,7 @@
     background: #fff;
     border-radius: 5px;
     opacity: 1;
-    color: #3300fe;
+    color: #6628fe;
     box-shadow: 0 6px 10px 0 rgba(0,0,0,.14), 0 1px 18px 0 rgba(0,0,0,.12), 0 3px 5px -1px rgba(0,0,0,.2);
     cursor: pointer;
     transition: .600s;
@@ -387,7 +387,7 @@
 .compose-box .compose-content .task-text img { max-width: 100%; }
 #todoShowListItem .modal-footer .btn[data-dismiss="modal"] {
     background-color: #fff;
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 700;
     border: 1px solid #e8e8e8;
     padding: 10px 25px;
@@ -401,7 +401,7 @@
     align-self: center;
     font-size: 19px;
     margin-right: 14px;
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 500;
 }
 .compose-box .compose-content form #taskdescription { height: 170px; }
@@ -420,16 +420,16 @@
 }
 #addTaskModal .modal-footer .btn[data-dismiss="modal"] {
     background-color: #fff;
-    color: #3300fe;
+    color: #6628fe;
     font-weight: 700;
     border: 1px solid #e8e8e8;
     padding: 10px 25px;
 }
 #addTaskModal .modal-footer .btn.add-tsk {
-    background-color: #3300fe;
+    background-color: #6628fe;
     color: #fff;
     font-weight: 500;
-    border: 1px solid #1b55e2;
+    border: 1px solid #6628fe;
     padding: 10px 25px;
 }
 #addTaskModal .modal-footer .btn.edit-tsk {
