@@ -15,10 +15,10 @@
 .media .media-body { align-self: center; }
 .media .media-body .media-heading {
   color: #3b3f5c;
-  font-weight: 700;
+  font-weight: 600;
   margin-bottom: 10px;
   font-size: 17px;
-  letter-spacing: 1px;
+  letter-spacing: .5px;
 }
 .media .media-body .media-text {
   color: #515365;
@@ -44,7 +44,7 @@
 .notation-text .media .media-body .media-notation a {
   color: #515365;
   font-size: 13px;
-  font-weight: 700;
+  font-weight: 600;
   margin-right: 8px;
 }
 
@@ -59,7 +59,7 @@
 .notation-text-icon .media .media-body .media-notation a {
 	color: #515365;
   font-size: 13px;
-  font-weight: 700;
+  font-weight: 600;
   margin-right: 8px;
 }
 .notation-text-icon .media .media-body .media-notation a svg {

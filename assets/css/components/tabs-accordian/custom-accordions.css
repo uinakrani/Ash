@@ -21,7 +21,7 @@ h1,h2,h3,h4,h5,h6 { color: #3b3f5c; }
     cursor: pointer;
     display: block;
     font-size: 14px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .card-header section > div.collapsed { color: #888ea8; }
 .card-header section > div:not(.collapsed) {
@@ -39,14 +39,14 @@ h1,h2,h3,h4,h5,h6 { color: #3b3f5c; }
 .card-header section > div .icons svg { width: 18px; }
 .card .card-body p {
     color: #888ea8;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     font-size: 13px;
 }
 .card .card-body p:not(:last-child) { margin-bottom: 10px; }
 .card .card-body ul { margin-bottom: 0; }
 .card .card-body ul li {
     font-size: 12px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .card .card-body ul li:not(:last-child) { margin-bottom: 5px; }
 .card .card-body ul li a {

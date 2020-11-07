@@ -133,14 +133,14 @@ body .fc {
 
 .fc-icon-left-single-arrow:after {
     content: "\02039";
-    font-weight: 700;
+    font-weight: 600;
     font-size: 200%;
     top: -7%
 }
 
 .fc-icon-right-single-arrow:after {
     content: "\0203A";
-    font-weight: 700;
+    font-weight: 600;
     font-size: 200%;
     top: -7%
 }
@@ -356,7 +356,7 @@ hr.fc-divider {
     vertical-align: top;
     font-weight: 500;
     color: #3b3f5c;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 
 .fc td.fc-today {
@@ -612,7 +612,7 @@ tr:first-child>td>.fc-day-grid-event {
 }
 
 .fc-day-grid-event .fc-time {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 11px;
 }
 
@@ -687,7 +687,7 @@ a.fc-more:hover {
     font-size: 18px;
     color: #0e1726;
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 2px;
 }
 .fc-toolbar button { position: relative }
@@ -1152,7 +1152,7 @@ a.fc-more:hover {
     border-radius: 6px;
     margin: 0px 18px;
     font-size: 12px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     padding: 5px 15px;
 }
 

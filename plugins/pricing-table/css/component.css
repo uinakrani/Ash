@@ -181,7 +181,7 @@
     border-radius: 0.25rem;
     border: 2px solid #6628fe;
     background: #fff;
-    font-weight: 700;
+    font-weight: 600;
 }
 #pricingWrapper .stacked:hover .card-price {
     -webkit-transform: translate(0, -10px);
@@ -280,7 +280,7 @@
     margin: 0;
     color: #888ea8;
     font-size: 14px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .billed-yearly-label {
     display: none
@@ -313,7 +313,7 @@
     margin-bottom: 5px;
     line-height: 24px;
     display: inline-block;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     font-size: 15px;
 }
 .pricing-plan-features ul {
@@ -327,7 +327,7 @@
     line-height: 24px;
     color: #888ea8;
     font-size: 13px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .pricing-plan .button {
 	border: none;
@@ -346,11 +346,11 @@
 }
 .billed-yearly-radio span.txt-monthly {
     color: #6628fe;
-    font-weight: 700;
+    font-weight: 600;
 }
 .billed-yearly-radio.billed-yearly-switch span.txt-yearly {
     color: #6628fe;
-    font-weight: 700;
+    font-weight: 600;
 }
 .billed-yearly-radio span.txt-yearly span.badge {
 	visibility: hidden;
@@ -361,7 +361,7 @@
 }
 .billed-yearly-radio span.txt-monthly,
 .billed-yearly-radio span.txt-yearly {
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .pricing-plan.recommended {
     box-shadow: 0 0 45px rgba(0, 0, 0, .09);
@@ -388,7 +388,7 @@
 }
 .recommended .pricing-plan-label strong {
     color: #6628fe;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 44px;
 }
 .pricing-plan.recommended .button {

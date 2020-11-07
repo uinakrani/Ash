@@ -179,7 +179,7 @@
     padding-bottom: 8px;
     border: none;
     color: #515365;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .search-form-overlay .form-inline.search .search-form-control {
     border: none;

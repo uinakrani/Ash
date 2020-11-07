@@ -138,7 +138,7 @@ blockquote.media-object .media .usr-img img {
     font-size: 14px;
     font-weight: 500;
     color: #515365;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 
 a {
@@ -174,7 +174,7 @@ span.red {
 .form-group label, label {
     font-size: 15px;
     color: #acb0c3;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 
 /*  Disable forms     */
@@ -191,7 +191,7 @@ span.red {
     color: #3b3f5c;
     font-size: 15px;
     padding: 8px 10px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     height: calc(1.4em + 1.4rem + 2px);
     padding: .75rem 1.25rem;
     border-radius: 6px;
@@ -225,7 +225,7 @@ span.red {
     color: #3b3f5c;
     font-size: 15px;
     padding: 8px 10px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     background-color: #f1f2f3;
 }
 .custom-select.custom-select-lg {
@@ -249,7 +249,7 @@ span.red {
     color: #5c1ac3;
 }
 .form-control-file::-webkit-file-upload-button {
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     padding: 9px 20px;
     text-shadow: none;
     font-size: 12px;
@@ -270,7 +270,7 @@ span.red {
     outline: none;
 }
 .form-control-file::-ms-file-upload-button {
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     padding: 9px 20px;
     text-shadow: none;
     font-size: 14px;
@@ -320,7 +320,7 @@ select.form-control.form-custom {
     color: #3b3f5c;
     font-size: 15px;
     padding: 8px 10px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     background-color: #f1f2f3;
 }
 .custom-file-label::after {
@@ -364,14 +364,14 @@ select.form-control.form-custom {
 .invalid-feedback {
     color: #e7515a;
     font-size: 13px;
-    font-weight: 700;
-    letter-spacing: 1px;
+    font-weight: 600;
+    letter-spacing: .5px;
 }
 .valid-feedback {
     color: #8dbf42;
     font-size: 13px;
-    font-weight: 700;
-    letter-spacing: 1px;
+    font-weight: 600;
+    letter-spacing: .5px;
 }
 .valid-tooltip { background-color: #8dbf42; }
 .invalid-tooltip { background-color: #e7515a; }
@@ -480,7 +480,7 @@ select.form-control.form-custom {
 .btn-group .dropdown-menu a.dropdown-item {
     border-radius: 5px;
     font-size: 12px;
-    font-weight: 700;
+    font-weight: 600;
     color: #888ea8;
     padding: 11px 8px;
 }
@@ -512,7 +512,7 @@ select.form-control.form-custom {
 }
 .dropdown:not(.custom-dropdown-icon) .dropdown-menu a.dropdown-item {
     font-size: 12px;
-    font-weight: 700;
+    font-weight: 600;
     color: #888ea8;
     padding: 11px 8px;
 }
@@ -520,7 +520,7 @@ select.form-control.form-custom {
 .dropdown:not(.custom-dropdown-icon) .dropdown-menu a.dropdown-item:active {
     background-color: transparent;
     color: #3b3f5c;
-    font-weight: 700;
+    font-weight: 600;
 }
 .dropdown:not(.custom-dropdown-icon) .dropdown-menu a.dropdown-item:hover {
     color: #888ea8;
@@ -1332,7 +1332,7 @@ select.form-control.form-custom {
     font-size: 13px;
     color: #888ea8;
     display: block;
-    font-weight: 700;
+    font-weight: 600;
     padding: 11px 8px;
     font-size: 12px;
 }
@@ -1383,12 +1383,12 @@ input[readonly], select[readonly], textarea[readonly] {
     vertical-align: middle;
     color: #515365;
     font-size: 13px;
-    letter-spacing: 1px; }
+    letter-spacing: .5px; }
 .table > thead > tr > th {
     color: #6628fe;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 13px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     text-transform: uppercase; }
 
 .table > tbody > tr > td .usr-img-frame {
@@ -1399,7 +1399,7 @@ input[readonly], select[readonly], textarea[readonly] {
 }
 .table > tbody > tr > td .usr-img-frame img { width: 35px; margin: 0; }
 .table > tbody > tr > td .admin-name {
-    font-weight: 700;
+    font-weight: 600;
     color: #515365;
 }
 .table > tbody > tr > td .progress { width: 135px; height: 6px; margin: auto 0; }
@@ -1604,10 +1604,10 @@ table .badge-info, table .badge-secondary, table .badge-dark  {
 }
 .progress .progress-bar {
     font-size: 10px;
-    font-weight: 700;
+    font-weight: 600;
     box-shadow: 0 2px 4px rgba(0, 69, 255, 0.15), 0 8px 16px rgba(0, 69, 255, 0.2);
     font-size: 12px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     font-weight: 100;
 }
 .progress:not(.progress-bar-stack) .progress-bar { border-radius: 16px; }

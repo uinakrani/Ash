@@ -12,7 +12,7 @@
 }
 .faq .faq-layouting .fq-tab-section h2 {
     font-size: 25px;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 45px;
     letter-spacing: 0px;
     text-align: center;
@@ -46,7 +46,7 @@
     font-size: 14px;
     color: #888ea8;
     font-weight: 500;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .faq .faq-layouting .fq-tab-section .accordion .card .card-header div[aria-expanded="true"] .faq-q-title {
     color: #6628fe;
@@ -76,7 +76,7 @@
 }
 .faq .faq-layouting .fq-tab-section .accordion .card .card-header div span.faq-like-count {
     font-size: 13px;
-    font-weight: 700;
+    font-weight: 600;
     color: #888ea8;
     fill: rgba(0, 23, 55, 0.08);
 }
@@ -90,7 +90,7 @@
 .faq .faq-layouting .fq-tab-section .accordion .card .card-body p {
     font-size: 13px;
     line-height: 23px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 
 /*

@@ -129,7 +129,7 @@
 }
 .breadcrumb-three .breadcrumb-item+.breadcrumb-item::before {
     color: #515365;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 13px;
     content: '';
     padding: 0px 6px;

@@ -16,7 +16,7 @@
     letter-spacing: 0px;
     color: #3b3f5c;
     vertical-align: bottom;
-    font-weight: 700;
+    font-weight: 600;
 }
 .action-btn svg {
     width: 20px;
@@ -32,7 +32,7 @@
     box-shadow: 0px 0px 15px 1px rgba(113, 106, 202, 0.2);
 }
 #addListModal .compose-box h5 {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 18px;
     color: #3b3f5c;
     text-align: center;
@@ -72,7 +72,7 @@
 #addListModal .modal-footer .btn[data-dismiss="modal"] {
     background-color: #fff;
     color: #6628fe;
-    font-weight: 700;
+    font-weight: 600;
     border: 1px solid #e0e6ed;
     padding: 10px 25px;
 }
@@ -95,7 +95,7 @@
 /*Add Task Modal*/
 
 #addTaskModal .compose-box h5 {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 18px;
     color: #515365;
     text-align: center;
@@ -157,7 +157,7 @@
     display: inline-block;
     margin-left: 6px;
     font-size: 16px;
-    font-weight: 700;
+    font-weight: 600;
     color: #3b3f5c;
 }
 #addTaskModal .modal-content .img-preview { text-align: center; }
@@ -184,7 +184,7 @@
 #addTaskModal .modal-footer .btn[data-dismiss="modal"] {
     background-color: #fff;
     color: #6628fe;
-    font-weight: 700;
+    font-weight: 600;
     border: 1px solid #e8e8e8;
     padding: 10px 25px;
 }
@@ -232,7 +232,7 @@
 #deleteConformation .modal-content .modal-header .modal-title {
     color: #3b3f5c;
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 600;
     align-self: center;
 }
 #deleteConformation .modal-content .modal-body { padding: 28px 0; }
@@ -246,7 +246,7 @@
 #deleteConformation .modal-content .modal-footer [data-dismiss="modal"] {
     background-color: #fff;
     color: #e7515a;
-    font-weight: 700;
+    font-weight: 600;
     border: 1px solid #e8e8e8;
     padding: 10px 25px;
 }
@@ -295,14 +295,14 @@
 .connect-sorting .task-container-header .dropdown .dropdown-menu .dropdown-item {
     padding: 5px;
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 600;
 }
 .connect-sorting .task-container-header .dropdown .dropdown-menu .dropdown-item:hover { color: #6628fe; }
 .connect-sorting .task-container-header .dropdown .dropdown-menu .dropdown-item.active,
 .connect-sorting .task-container-header .dropdown .dropdown-menu .dropdown-item:active { background-color: transparent; }
 .connect-sorting .task-container-header h6 {
     font-size: 16px;
-    font-weight: 700;
+    font-weight: 600;
 }
 .connect-sorting .add-s-task {
     cursor: pointer;
@@ -336,7 +336,7 @@
 }
 .scrumboard .task-header h4 {
     font-size: 16px;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 0;
 }
 .scrumboard .task-header svg.feather-edit-2 {

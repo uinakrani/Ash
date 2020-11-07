@@ -18,7 +18,7 @@ body.error503 > .error-content {
 }
 .error503 .mini-text {
     font-size: 33px;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 0;
     color: #6628fe;
 }

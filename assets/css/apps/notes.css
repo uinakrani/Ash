@@ -36,7 +36,7 @@
     font-weight: 500;
     font-size: 15px;
     color: #3b3f5c;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     margin-top: 25px;
     margin-bottom: 13px;
     padding: 9px 20px;
@@ -82,11 +82,11 @@
 .tab-title .nav-pills .nav-link.active, .tab-title .nav-pills .show>.nav-link {
     background-color: #bfc9d4;
     color: #3b3f5c;
-    font-weight: 700;
+    font-weight: 600;
 }
 .tab-title .nav-pills a.nav-link {
     position: relative;
-    font-weight: 700;
+    font-weight: 600;
     color: #515365;
     padding: 9px 20px;
     cursor: pointer;
@@ -113,10 +113,10 @@
 .tab-title .nav-pills.group-list .nav-item a {
     position: relative;
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 600;
     padding: 9px 15px 9px 50px;
     color: #3b3f5c;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .tab-title .nav-pills.group-list .nav-item a[class*="g-dot-"]:before {
     position: absolute;
@@ -151,7 +151,7 @@
 }
 .tab-title li.mail-labels a.dropdown-item {
     font-size: 13px;
-    font-weight: 700;
+    font-weight: 600;
     padding: 8px 18px;
 }
 .tab-title li.mail-labels a.dropdown-item:hover {
@@ -378,7 +378,7 @@
 .modal-content .modal-footer [data-dismiss="modal"] {
     background-color: #fff;
     color: #6628fe;
-    font-weight: 700;
+    font-weight: 600;
     border: 1px solid #e8e8e8;
     padding: 10px 25px;
 }

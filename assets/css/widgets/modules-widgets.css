@@ -112,15 +112,15 @@
 }
 .widget.widget-one .w-chart .w-chart-section .w-title {
     font-size: 13px;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 0;
 }
 .widget.widget-one .w-chart .w-chart-section .w-stats {
     color: #f8538d;
     font-size: 20px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     margin-bottom: 0;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 /*
@@ -258,7 +258,7 @@
 .widget.widget-activity-three .timeline-line .item-timeline .t-content .t-uppercontent h5 {
     font-size: 15px;
     letter-spacing: 0;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 5px;
 }
 .widget.widget-activity-three .timeline-line .item-timeline .t-content .t-uppercontent span {
@@ -279,7 +279,7 @@
 .widget.widget-activity-three .timeline-line .item-timeline .t-content div.tags .badge {
     padding: 2px 4px;
     font-size: 11px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     transform: none;
 }
 .widget.widget-activity-three .timeline-line .item-timeline .t-content div.tags .badge-primary {
@@ -401,7 +401,7 @@
     min-width: 100px;
     max-width: 100px;
     font-size: 12px;
-    font-weight: 700;
+    font-weight: 600;
     color: #888ea8;
     align-self: center;
 }
@@ -430,7 +430,7 @@
 }
 .widget-activity-two .tm-action-btn button {
     box-shadow: none;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 0px;
     font-size: 15px;
     padding: 0;
@@ -463,7 +463,7 @@
 }
 .widget-one_hybrid .widget-heading .w-value {
     font-size: 21px;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 0;
 }
 .widget-one_hybrid .widget-heading h5 {
@@ -525,7 +525,7 @@
 }
 .widget-account-invoice-two .account-box p {
     color: #e0e6ed;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 0;
     align-self: center;
 }
@@ -581,14 +581,14 @@
     align-self: center;
 }
 .widget-card-one .widget-content .media-body h6 {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 15px;
     letter-spacing: 0;
     margin-bottom: 0;
 }
 .widget-card-one .widget-content .media-body p {
     font-size: 14px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     margin-bottom: 0;
     font-weight: 500;
     color: #888ea8;
@@ -609,9 +609,9 @@
 }
 .widget-card-one .widget-content .w-action span {
     vertical-align: sub;
-    font-weight: 700;
+    font-weight: 600;
     color: #0e1726;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 
 /*
@@ -749,7 +749,7 @@
     align-self: center;
 }
 .widget-card-two .media .media-body h6 {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 15px;
     letter-spacing: 0;
     margin-bottom: 0;
@@ -765,7 +765,7 @@
 .widget-card-two .card-bottom-section h5 {
     font-size: 14px;
     color: #009688;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 20px;
 }
 .widget-card-two .card-bottom-section .img-group img {
@@ -788,7 +788,7 @@
     margin-left: 15px;
     font-size: 15px;
     font-weight: 500;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .widget-card-two .card-bottom-section a.btn:hover,
 .widget-card-two .card-bottom-section a.btn:focus  {
@@ -817,7 +817,7 @@
     align-self: center;
 }
 .widget-five .widget-content .header-body h6 {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 15px;
     letter-spacing: 0;
     margin-bottom: 0;
@@ -867,7 +867,7 @@
 }
 .widget-five .w-content div .task-completed {
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 4px;
     color: #009688;
 }
@@ -878,7 +878,7 @@
 }
 .widget-five .w-content div .task-hight-priority span {
     color: #e7515a;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 /*
@@ -934,7 +934,7 @@
     margin-bottom: 15px;
 }
 .sales .widget h5 {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 19px;
     letter-spacing: 0px;
     margin-bottom: 0;
@@ -996,7 +996,7 @@
     font-size: 19px;
     display: block;
     color: #0e1726;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: -9px;
 }
 .widget-two .w-numeric-value .w-numeric-title {
@@ -1058,7 +1058,7 @@
 .widget-one .w-numeric-value .w-numeric-title {
     font-size: 13px;
     color: #fff;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     font-weight: 500;
 }
 
@@ -1189,7 +1189,7 @@
 }
 .widget-chart-one .widget-heading .tabs a {
     font-size: 14px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     font-weight: 500;
     padding: 5px 7px;
     background: #6628fe;
@@ -1261,7 +1261,7 @@
     height: 38px;
     font-size: 14px;
     font-weight: 500;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .widget-table-one .transactions-list .t-item .t-icon .avatar .avatar-title {
     display: flex;
@@ -1420,7 +1420,7 @@
     min-width: 100px;
     max-width: 100px;
     font-size: 12px;
-    font-weight: 700;
+    font-weight: 600;
     color: #888ea8;
     align-self: center;
 }
@@ -1442,7 +1442,7 @@
     right: 11px;
     padding: 2px 4px;
     font-size: 11px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     opacity: 0;
     font-weight: 400;
 }
@@ -1464,7 +1464,7 @@
     font-size: 13px;
     font-weight: 500;
     color: #acb0c3;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .widget-activity-four .tm-action-btn {
     text-align: center;
@@ -1559,7 +1559,7 @@
     min-width: 100px;
     max-width: 100px;
     font-size: 12px;
-    font-weight: 700;
+    font-weight: 600;
     color: #888ea8;
     align-self: center;
 }
@@ -1590,7 +1590,7 @@
     font-weight: 500;
     color: #acb0c3;
     padding: 10px 0;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .widget-activity-one .tm-action-btn {
     text-align: center;
@@ -1601,8 +1601,8 @@
     box-shadow: none;
     padding: 0;
     color: #6628fe;
-    font-weight: 700;
-    letter-spacing: 1px;
+    font-weight: 600;
+    letter-spacing: .5px;
     border: none;
     font-size: 15px;
 }
@@ -1628,14 +1628,14 @@
 .widget-account-invoice-one .invoice-box h5 {
     text-align: center;
     font-size: 20px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     margin-bottom: 10px;
     color: #6628fe;
 }
 .widget-account-invoice-one .invoice-box .acc-amount {
     text-align: center;
     font-size: 23px;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 0;
     color: #009688;
 }
@@ -1650,14 +1650,14 @@
 }
 .widget-account-invoice-one .invoice-box [class*="info-detail-"]:not(.info-sub) p {
     margin-bottom: 13px;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 14px;
 }
 .widget-account-invoice-one .invoice-box [class*="info-detail-"].info-sub .info-detail {
     display: flex;
     justify-content: space-between;
     margin-bottom: 0;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 14px;
 }
 .widget-account-invoice-one .invoice-box [class*="info-detail-"].info-sub .info-detail p {
@@ -1689,9 +1689,9 @@
     position: relative;
 }
 .widget-table-two h5 {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 19px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     margin-bottom: 20px;
 }
 .widget-table-two .widget-content {
@@ -1731,7 +1731,7 @@
     color: #6628fe;
     font-weight: 500;
     font-size: 14px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .widget-table-two .table > thead > tr > th:first-child .th-content {
     margin-left: 10px;
@@ -1760,7 +1760,7 @@
 .widget-table-two .table > tbody > tr > td .td-content {
     cursor: pointer;
     font-weight: 500;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     color: #888ea8;
 }
 .widget-table-two .table > tbody > tr:hover > td .td-content {
@@ -1785,7 +1785,7 @@
     color: #515365;
 }
 .widget-table-two .table .td-content.product-brand {
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .widget-table-two .table .td-content img {
     width: 35px;
@@ -1825,9 +1825,9 @@
     position: relative;
 }
 .widget-table-three h5 {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 19px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     margin-bottom: 20px;
 }
 .widget-table-three .widget-content {
@@ -1876,7 +1876,7 @@
     color: #6628fe;
     font-weight: 500;
     font-size: 14px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .widget-table-three .table > thead > tr > th:nth-last-child(2) .th-content {}
 .widget-table-three .table > tbody > tr > td {
@@ -1897,7 +1897,7 @@
 .widget-table-three .table > tbody > tr > td .td-content {
     cursor: pointer;
     font-weight: 500;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     color: #888ea8;
 }
 .widget-table-three .table > tbody > tr:hover > td .td-content {
@@ -1928,7 +1928,7 @@
 }
 .widget-table-three .table .td-content.product-name {
     color: #515365;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .widget-table-three .table .td-content img {
     width: 35px;
@@ -1967,7 +1967,7 @@
     font-size: 13px;
     background: transparent;
     transform: none;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     border-bottom: 1px dashed #bfc9d4;
 }
 

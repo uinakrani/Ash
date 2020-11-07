@@ -9,9 +9,9 @@
     border: 1px solid #e0e6ed;
 }
 .modal-content .modal-header h5 {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 20px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .modal-content .modal-header svg {
     width: 17px;
@@ -24,7 +24,7 @@
 }
 .modal-content .modal-body p {
     color: #888ea8;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     font-size: 14px;
     line-height: 22px;
 }
@@ -36,12 +36,12 @@
 .modal-content .modal-footer button.btn {
     font-weight: 500;
     padding: 10px 25px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .modal-content .modal-footer button.btn[data-dismiss="modal"] {
     background-color: #fff;
     color: #6628fe;
-    font-weight: 700;
+    font-weight: 600;
     border: 1px solid #e8e8e8;
 }
 .modal-content .modal-footer .btn.btn-primary {

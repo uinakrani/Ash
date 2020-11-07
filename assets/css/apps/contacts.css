@@ -132,7 +132,7 @@
   text-align: left;
   margin-top: 6px;
   font-size: 12px;
-  letter-spacing: 1px;
+  letter-spacing: .5px;
 }
 .searchable-container .add-contact-box .add-contact-content .contact-name svg,
 .searchable-container .add-contact-box .add-contact-content .contact-email svg,
@@ -194,7 +194,7 @@
 .searchable-container .modal-footer .btn[data-dismiss="modal"] {
     background-color: #fff;
     color: #6628fe;
-    font-weight: 700;
+    font-weight: 600;
     border: 1px solid #e8e8e8;
     padding: 10px 25px;
 }
@@ -396,7 +396,7 @@
   color: #2196f3;
 }
 .searchable-container .searchable-items.grid .items .user-meta-info .user-work {
-  font-weight: 700;
+  font-weight: 600;
   font-size: 13px;
 }
 .searchable-container .searchable-items.grid .items .user-email {

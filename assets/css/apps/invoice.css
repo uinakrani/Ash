@@ -45,7 +45,7 @@
 .actions-btn-tooltip .tooltip-inner {
     background: #3b3f5c;
     color: #fff;
-    font-weight: 700;
+    font-weight: 600;
     border-radius: 30px;
     box-shadow: 0px 5px 15px 1px rgba(113, 106, 202, 0.2);
     padding: 4px 16px;
@@ -136,7 +136,7 @@
 }
 .tab-title .list-actions .f-m-body .f-body .invoice-customer-name {
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 600;
     color: #0e1726;
     margin-bottom: 0;
 }
@@ -189,7 +189,7 @@
 }
 .invoice-inbox .inv-number {
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 0;
     color: #888ea8;
 }
@@ -237,7 +237,7 @@
 }
 .invoice .content-section .inv--head-section h3.in-heading {
     font-size: 32px;
-    font-weight: 700;
+    font-weight: 600;
     color: #0e1726;
     margin: 0;
 }
@@ -262,24 +262,24 @@
 /*    Inv detail section    */
 
 .invoice .content-section .inv--detail-section .inv-to {
-   font-weight: 700;
+   font-weight: 600;
     font-size: 15px;
     margin-bottom: 15px;
 }
 .invoice .content-section .inv--detail-section .inv-customer-name {
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 2px;
     font-size: 13px;
     color: #6628fe;
 }
 .invoice .content-section .inv--detail-section .inv-detail-title {
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 0;
     font-size: 15px;
     margin-bottom: 15px;
 }
 .invoice .content-section .inv--detail-section .inv-details {
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 15px;
 }
 .invoice .content-section .inv--detail-section .inv-street-addr {
@@ -298,11 +298,11 @@
     margin-bottom: 2px;
 }
 .invoice .content-section .inv--detail-section .inv-list-number .inv-title {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 13px;
 }
 .invoice .content-section .inv--detail-section .inv-list-number .inv-number {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 13px;
     color: #6628fe;
 }
@@ -312,7 +312,7 @@
     margin-bottom: 2px;
 }
 .invoice .content-section .inv--detail-section .inv-created-date .inv-title {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 13px;
 }
 .invoice .content-section .inv--detail-section .inv-created-date .inv-date {
@@ -325,7 +325,7 @@
     margin-bottom: 2px;
 }
 .invoice .content-section .inv--detail-section .inv-due-date .inv-title {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 13px;
 }
 .invoice .content-section .inv--detail-section .inv-due-date .inv-date {
@@ -367,7 +367,7 @@
     margin-bottom: 15px;
 }
 .invoice .content-section .inv--payment-info .inv-subtitle {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 14px;
 }
 
@@ -379,23 +379,23 @@
 }
 .invoice .content-section .inv--total-amounts .grand-total-title h4 {
     position: relative;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 16px;
     margin-bottom: 0;
     padding: 0;
     color: #0e1726;
     display: inline-block;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .invoice .content-section .inv--total-amounts .grand-total-amount h4 {
     position: relative;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 16px;
     margin-bottom: 0;
     padding: 0;
     color: #0e1726;
     display: inline-block;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 
 /*inv--thankYou*/

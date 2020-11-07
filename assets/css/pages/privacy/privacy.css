@@ -75,7 +75,7 @@ body { background-color: #f1f2f3; }
     margin: 0;
     font-weight: 500;
     font-size: 22px;
-    letter-spacing: 1px; }
+    letter-spacing: .5px; }
 #privacyWrapper h5.policy-info-ques { color: #666666; font-weight: 500; }
 
 /*
@@ -114,10 +114,10 @@ body { background-color: #f1f2f3; }
     color: #fff;
     font-weight: 500;
     font-size: 15px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 #miniFooterWrapper .copyright a {
     color: #6628fe;
-    font-weight: 700;
+    font-weight: 600;
     text-decoration: none;
 }

@@ -33,14 +33,14 @@
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
     font-size: 14px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     font-weight: 400;
 }
 .popover-primary .popover-body {
     color: #3b3f5c;
     min-height: 90px;
     font-size: 13px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     padding: 11px 18px;
 }
 .flatpickr-calendar.open {
@@ -88,7 +88,7 @@ button.fc-month-button,
 button.fc-agendaWeek-button,
 button.fc-agendaDay-button {
     padding: 6px 10px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 button.fc-prev-button,
 button.fc-next-button {
@@ -207,7 +207,7 @@ input[readonly] { color: #3b3f5c; }
 #addEventsModal .modal-footer [data-dismiss="modal"] {
     background-color: #fff;
     color: #6628fe;
-    font-weight: 700;
+    font-weight: 600;
     border: 1px solid #e8e8e8;
     padding: 10px 25px;
 }
@@ -217,7 +217,7 @@ td.fc-today.fc-state-highlight span {
     color: #fff;
     display: inline-block!important;
     font-size: 12px;
-    font-weight: 700;
+    font-weight: 600;
 }
 .fc-day-grid-event .fc-content:before {
     content: '';

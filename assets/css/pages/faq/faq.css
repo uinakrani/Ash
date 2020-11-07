@@ -3,7 +3,7 @@ body { background-color: #f1f2f3; }
 /*Navbar*/
 nav .navbar-brand {
     font-size: 30px;
-    font-weight: 700;
+    font-weight: 600;
     color: #fff;
 }
 .navbar-expand .navbar-nav .nav-link {
@@ -24,7 +24,7 @@ nav .navbar-brand {
 }
 .fq-header-wrapper h1 {
     font-size: 46px;
-    font-weight: 700;
+    font-weight: 600;
     color: #fff;
     margin-bottom: 8px;
 }
@@ -67,7 +67,7 @@ nav .navbar-brand {
 }
 .faq .faq-layouting .fq-comman-question-wrapper h3 {
     font-size: 29px;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 40px;
 }
 .faq .faq-layouting .fq-comman-question-wrapper ul { padding: 0; }
@@ -99,7 +99,7 @@ nav .navbar-brand {
 .faq .faq-layouting .fq-tab-section { margin-bottom: 70px; }
 .faq .faq-layouting .fq-tab-section h2 {
     font-size: 29px;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 40px;
 }
 .faq .faq-layouting .fq-tab-section .accordion .card {
@@ -126,7 +126,7 @@ nav .navbar-brand {
     white-space: nowrap;
     font-size: 13px;
     color: #3b3f5c;
-    font-weight: 700;
+    font-weight: 600;
 }
 .faq .faq-layouting .fq-tab-section .accordion .card .card-header div svg.feather-code {
     width: 17px;
@@ -159,7 +159,7 @@ nav .navbar-brand {
 }
 .faq .faq-layouting .fq-tab-section .accordion .card .card-header div span.faq-like-count {
     font-size: 13px;
-    font-weight: 700;
+    font-weight: 600;
     color: #888ea8;
     fill: rgba(0, 23, 55, 0.08);
 }
@@ -182,7 +182,7 @@ nav .navbar-brand {
 .faq .faq-layouting .fq-article-section { margin-bottom: 90px; }
 .faq .faq-layouting .fq-article-section h2 {
     font-size: 29px;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 40px;
 }
 .faq .faq-layouting .fq-article-section .card {border: none;
@@ -196,12 +196,12 @@ nav .navbar-brand {
 }
 .faq .faq-layouting .fq-article-section .card .card-body .fq-rating svg.checked { fill: rgba(226, 160, 63, 0.5411764705882353); }
 .faq .faq-layouting .fq-article-section .card .card-body h5.card-title {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 20px;
     margin-bottom: 21px;
 }
 .faq .faq-layouting .fq-article-section .card .card-body p.card-text {
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     color: #888ea8;
 }
 .faq .faq-layouting .fq-article-section .card .card-body p.meta-text {
@@ -247,11 +247,11 @@ nav .navbar-brand {
     color: #fff;
     font-weight: 500;
     font-size: 15px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 #miniFooterWrapper .copyright a {
     color: #6628fe;
-    font-weight: 700;
+    font-weight: 600;
     text-decoration: none;
 }
 

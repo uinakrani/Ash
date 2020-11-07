@@ -47,14 +47,14 @@ table.dataTable {
     font-weight: 500;
     font-size: 13px;
     border: none;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     text-transform: uppercase;
 }
 .table > tbody > tr > td {
     border: none;
     color: #d3d3d3;
     font-size: 13px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .table-striped tbody tr:nth-of-type(odd) {
     background-color: transparent!important;

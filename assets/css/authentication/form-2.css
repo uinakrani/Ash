@@ -65,7 +65,7 @@ body {
 .form-form .form-form-wrap p.signup-link {
     font-size: 14px;
     color: #3b3f5c;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 15px;
     text-align: center;
     margin-top: 50px;
@@ -96,7 +96,7 @@ body {
 }
 .form-form .form-form-wrap form .field-wrapper label {
     font-size: 10px;
-    font-weight: 700;
+    font-weight: 600;
     color: #3b3f5c;
     margin-bottom: 8px;
 }
@@ -167,7 +167,7 @@ body {
     font-weight: 500;
     color: #888ea8;
     display: block;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     font-size: 12px;
     margin-bottom: 8px;
 }

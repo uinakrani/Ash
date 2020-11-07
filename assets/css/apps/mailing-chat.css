@@ -86,7 +86,7 @@
 .chat-system .user-list-box .people .person .user-info .f-body .meta-info .user-name {
     font-size: 14px;
     color: #3b3f5c;
-    font-weight: 700;
+    font-weight: 600;
 }
  .chat-system .user-list-box .people .person .user-info .f-body .meta-info .user-meta-time {
     font-size: 12px;
@@ -94,7 +94,7 @@
     top: 16px;
     right: 11px;
     color: #888ea8;
-    font-weight: 700;
+    font-weight: 600;
     float: right;
 }
 .chat-system .user-list-box .people .person .user-info .f-body .preview {
@@ -407,7 +407,7 @@
 }
 .chat-system .chat-box .chat-box-inner .chat-meta-user.chat-active .chat-action-btn .dropdown-menu a {
     font-size: 12px;
-    font-weight: 700;
+    font-weight: 600;
     color: #888ea8;
     padding: 11px 8px;
 }
@@ -615,7 +615,7 @@
     font-size: 12px;
     color: #3b3f5c;
     margin-bottom: 0;
-    font-weight: 700;
+    font-weight: 600;
     background: #fff;
     padding: 7px 20px;
     border-radius: 6px;

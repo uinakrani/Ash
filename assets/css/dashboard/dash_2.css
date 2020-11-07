@@ -103,15 +103,15 @@
 }
 .widget.widget-one .w-chart .w-chart-section .w-title {
     font-size: 13px;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 0;
 }
 .widget.widget-one .w-chart .w-chart-section .w-stats {
     color: #f8538d;
     font-size: 20px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     margin-bottom: 0;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 /*
@@ -249,7 +249,7 @@
 .widget-activity-three .timeline-line .item-timeline .t-content .t-uppercontent h5 {
     font-size: 15px;
     letter-spacing: 0;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 5px;
 }
 .widget-activity-three .timeline-line .item-timeline .t-content .t-uppercontent span {
@@ -270,7 +270,7 @@
 .widget-activity-three .timeline-line .item-timeline .t-content div.tags .badge {
     padding: 2px 4px;
     font-size: 11px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     transform: none;
 }
 .widget-activity-three .timeline-line .item-timeline .t-content div.tags .badge-primary {
@@ -332,7 +332,7 @@
 }
 .widget-one_hybrid .widget-heading .w-value {
     font-size: 21px;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 0;
 }
 .widget-one_hybrid .widget-heading h5 {
@@ -395,7 +395,7 @@
 }
 .widget-account-invoice-two .account-box p {
     color: #e0e6ed;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 0;
     align-self: center;
 }
@@ -451,14 +451,14 @@
     align-self: center;
 }
 .widget-card-one .widget-content .media-body h6 {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 15px;
     letter-spacing: 0;
     margin-bottom: 0;
 }
 .widget-card-one .widget-content .media-body p {
     font-size: 14px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     margin-bottom: 0;
     font-weight: 500;
     color: #888ea8;
@@ -479,9 +479,9 @@
 }
 .widget-card-one .widget-content .w-action span {
     vertical-align: sub;
-    font-weight: 700;
+    font-weight: 600;
     color: #0e1726;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 
 /*
@@ -620,7 +620,7 @@
     align-self: center;
 }
 .widget-card-two .media .media-body h6 {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 15px;
     letter-spacing: 0;
     margin-bottom: 0;
@@ -636,7 +636,7 @@
 .widget-card-two .card-bottom-section h5 {
     font-size: 14px;
     color: #009688;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 20px;
 }
 .widget-card-two .card-bottom-section .img-group img {
@@ -659,7 +659,7 @@
     margin-left: 15px;
     font-size: 15px;
     font-weight: 500;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .widget-card-two .card-bottom-section a.btn:hover,
 .widget-card-two .card-bottom-section a.btn:focus  {
@@ -688,7 +688,7 @@
     align-self: center;
 }
 .widget-five .widget-content .header-body h6 {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 15px;
     letter-spacing: 0;
     margin-bottom: 0;
@@ -738,7 +738,7 @@
 }
 .widget-five .w-content div .task-completed {
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 4px;
     color: #009688;
 }
@@ -749,7 +749,7 @@
 }
 .widget-five .w-content div .task-hight-priority span {
     color: #e7515a;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 /*

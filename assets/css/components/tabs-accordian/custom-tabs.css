@@ -414,31 +414,3 @@ h4 { font-size: 1.125rem; }
     color: #fff;
     background-color: #8dbf42;
 }
-
-
-/*
-    Border Top Tab
-*/
-
-.border-top-tab .nav-tabs { border-bottom: 1px solid transparent; }
-.border-top-tab .nav-tabs li a {
-    border-radius: 0px;
-    padding: 12px 30px;
-    background: #f6f7f8;
-    color: #0e1726;
-    border-right: 1px solid transparent;
-}
-.border-top-tab .tab-content>.tab-pane { padding: 20px 0 0 0; }
-.border-top-tab .nav-tabs .nav-item.show .nav-link, .border-top-tab .nav-tabs .nav-link.active {
-    color: #495057;
-    border-radius: 0px;
-    padding: 12px 30px;
-    background: #f6f7f8;
-    color: #5c1ac3;
-    border: 1px solid transparent;
-    border-top: 2px solid #5c1ac3;
-}
-.border-top-tab .nav-tabs .nav-link:focus, .border-top-tab .nav-tabs .nav-link:hover {
-    border: 1px solid transparent;
-    border-top: 2px solid #5c1ac3;
-}

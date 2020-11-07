@@ -46,7 +46,7 @@
         color: #3b3f5c;
         font-size: 15px;
         padding: 8px 10px;
-        letter-spacing: 1px;
+        letter-spacing: .5px;
         background-color: #f1f2f3;}
       .custom-file-container__custom-file__custom-file-control__button {
           box-sizing: border-box;

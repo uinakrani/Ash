@@ -45,7 +45,7 @@ body {
     color: #fff;
     font-size: 17px;
     font-weight: 500;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     margin-bottom: 35px;
 }
 .hd-header-wrapper .input-group {
@@ -113,7 +113,7 @@ body {
     white-space: nowrap;
     font-size: 13px;
     color: #3b3f5c;
-    font-weight: 700;
+    font-weight: 600;
 }
 .hd-tab-section .accordion .card .card-header div > div svg {
     width: 17px;
@@ -128,7 +128,7 @@ body {
 .hd-tab-section .accordion .card .card-body p {
     line-height: 2.2;
     font-size: 14px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     color: #0e1726;
 }
 
@@ -305,11 +305,11 @@ body {
     color: #fff;
     font-weight: 500;
     font-size: 15px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 #miniFooterWrapper .copyright a {
     color: #6628fe;
-    font-weight: 700;
+    font-weight: 600;
     text-decoration: none;
 }
 @media (max-width: 1199px) {

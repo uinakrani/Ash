@@ -25,7 +25,7 @@
 .component-card_1 .card-title {
     font-size: 20px;
     font-weight: 500;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     margin-bottom: 15px;
 }
 .component-card_1 .card-text { color: #888ea8; }
@@ -44,8 +44,8 @@
 .component-card_2 .card-body { padding: 22px 20px; }
 .component-card_2 .card-title {
     font-size: 20px;
-    font-weight: 700;
-    letter-spacing: 1px;
+    font-weight: 600;
+    letter-spacing: .5px;
     margin-bottom: 15px;
 }
 .component-card_2 .card-text {
@@ -84,13 +84,13 @@
 .component-card_3 .card-body h5.card-user_name {
     font-size: 15px;
     color: #fff;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     font-weight: 500;
 }
 .component-card_3 .card-body p.card-user_occupation {
     font-size: 14px;
     color: #acb0c3;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .component-card_3 .card-body .card-star_rating { margin-bottom: 24px; }
 .component-card_3 .card-body .card-star_rating svg {
@@ -102,7 +102,7 @@
     color: #acb0c3;
     font-style: italic;
     font-size: 14px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 
 /*
@@ -130,7 +130,7 @@
 .component-card_4 .user-info { padding: 24px 8px 24px 0px; }
 .component-card_4 .card-user_name {
     font-size: 16px;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 10px;
 }
 .component-card_4 .card-user_occupation {
@@ -151,7 +151,7 @@
 .component-card_4 .card-text {
     color: #515365;
     font-size: 14px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     font-weight: 500;
     line-height: 23px;
 }
@@ -186,20 +186,20 @@
 .component-card_5 .card-body h5.card-user_name {
     font-size: 15px;
     color: #fff;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     font-weight: 500;
     margin-bottom: 3px;
 }
 .component-card_5 .card-body p.card-user_occupation {
     font-size: 14px;
     color: #acb0c3;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     margin-bottom: 0
 }
 .component-card_5 .card-body .card-text {
     color: #f1f2f3;
     font-size: 14px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 
 /*
@@ -232,21 +232,21 @@
 .component-card_6 .card-body h5.card-user_name {
     font-size: 16px;
     color: #3b3f5c;
-    letter-spacing: 1px;
-    font-weight: 700;
+    letter-spacing: .5px;
+    font-weight: 600;
     margin-bottom: 3px;
 }
 .component-card_6 .card-body p.card-user_occupation {
     font-size: 14px;
     color: #888ea8;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     margin-bottom: 0;
 }
 .component-card_6 .card-body .card-text {
     color: #515365;
     font-style: italic;
     font-size: 14px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     font-weight: 500;
 }
 .component-card_6 .card-body .card-star_rating svg {
@@ -366,8 +366,8 @@
 }
 .component-card_9 .card-title {
     font-size: 15px;
-    font-weight: 700;
-    letter-spacing: 1px;
+    font-weight: 600;
+    letter-spacing: .5px;
     margin-bottom: 15px;
 }
 .component-card_9 .card-text {

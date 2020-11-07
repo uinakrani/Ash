@@ -87,7 +87,7 @@
 .tab-title h5 {
     position: relative;
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 3px;
     color: #515365;
 }
@@ -133,7 +133,7 @@
 }
 .tab-title .nav-pills a.nav-link {
     position: relative;
-    font-weight: 700;
+    font-weight: 600;
     color: #888ea8;
     border-radius: 0;
     padding: 20px 0px 20px 15px;
@@ -148,7 +148,7 @@
     padding: 2px 5px;
     height: 24px;
     width: 23px;
-    font-weight: 700;
+    font-weight: 600;
     border: 2px solid #e0e6ed;
     transform: none;
 }
@@ -232,7 +232,7 @@
 }
 .todo-inbox .todo-item .todo-item-inner .todo-heading {
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 600;
     color: #515365;
     margin-bottom: 2px;
     -webkit-transition: all 0.35s ease;
@@ -292,7 +292,7 @@
 .todo-inbox .todo-item .todo-item-inner .priority-dropdown .dropdown-menu a.dropdown-item:active { background: transparent; }
 .todo-inbox .todo-item .todo-item-inner .priority-dropdown .dropdown-menu a svg {
     font-size: 19px;
-    font-weight: 700;
+    font-weight: 600;
     margin-right: 7px;
     vertical-align: middle;
 }
@@ -377,7 +377,7 @@
     border-bottom: 1px solid #e0e6ed;
 }
 .compose-box .compose-content h5 {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 18px;
     color: #3b3f5c;
     text-align: center;
@@ -388,7 +388,7 @@
 #todoShowListItem .modal-footer .btn[data-dismiss="modal"] {
     background-color: #fff;
     color: #6628fe;
-    font-weight: 700;
+    font-weight: 600;
     border: 1px solid #e8e8e8;
     padding: 10px 25px;
 }
@@ -412,7 +412,7 @@
     text-align: left;
     margin-top: 6px;
     font-size: 12px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 #addTaskModal .modal-footer {
     border-top: none;
@@ -421,7 +421,7 @@
 #addTaskModal .modal-footer .btn[data-dismiss="modal"] {
     background-color: #fff;
     color: #6628fe;
-    font-weight: 700;
+    font-weight: 600;
     border: 1px solid #e8e8e8;
     padding: 10px 25px;
 }

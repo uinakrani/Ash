@@ -145,8 +145,8 @@
     border: none!important;
     padding: 7px 9px;
     font-size: 14px;
-    font-weight: 700;
-    letter-spacing: 1px;
+    font-weight: 600;
+    letter-spacing: .5px;
     color: #fff!important;
     width: 40px;
     margin: 0 auto;
@@ -213,7 +213,7 @@
 } 
 .tab-title .nav-pills a.nav-link span.nav-names {
     display: block;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     padding: 0;
 }
 .tab-title .nav-pills a.nav-link .mail-badge {
@@ -230,11 +230,11 @@
     top: 7px;
 }
 .group-section {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 15px;
     display: inline-block;
     color: #060818;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     margin-top: 22px;
     margin-bottom: 13px;
     display: flex;
@@ -251,10 +251,10 @@
 .tab-title .nav-pills.group-list .nav-item a {
     position: relative;
     padding: 6px 45px 6px 41px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     border-radius: 5px;
     font-size: 12px;
-    font-weight: 700;
+    font-weight: 600;
     color: #888ea8;
     border-bottom: none!important;
 }
@@ -287,7 +287,7 @@
 }
 .tab-title li.mail-labels a.dropdown-item {
     font-size: 13px;
-    font-weight: 700;
+    font-weight: 600;
     padding: 8px 18px;
 }
 .tab-title li.mail-labels a.dropdown-item:hover {
@@ -313,7 +313,7 @@
 .actions-btn-tooltip .tooltip-inner {
     background: #3b3f5c;
     color: #fff;
-    font-weight: 700;
+    font-weight: 600;
     border-radius: 30px;
     box-shadow: 0px 5px 15px 1px rgba(113, 106, 202, 0.2);
     padding: 4px 16px;
@@ -389,7 +389,7 @@
     font-weight: 500;
     padding: 10px 23px 10px 43px;
     color: #3b3f5c;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .mailbox-inbox .action-center .dropdown-menu.d-icon-menu a[class*="g-dot-"]:before {
     left: 19px;
@@ -438,11 +438,11 @@
 }
 .mailbox-inbox .mail-item[id*="unread-"] div.mail-item-heading {}
 .mailbox-inbox .mail-item[id*="unread-"] div.mail-item-heading .mail-item-inner .f-body .mail-title {
-    font-weight: 700;
+    font-weight: 600;
     color: #1b2e4b;
 }
 .mailbox-inbox .mail-item[id*="unread-"] div.mail-item-heading .mail-item-inner .f-body .user-email {
-    font-weight: 700;
+    font-weight: 600;
     color: #0e1726;
 }
 .mailbox-inbox .mail-item[id*="unread-"] div.mail-item-heading .mail-item-inner .mail-content-excerpt {
@@ -450,7 +450,7 @@
     color: #1b2e4b;
 }
 .mailbox-inbox .mail-item[id*="unread-"] div.mail-item-heading .mail-item-inner .f-body .meta-time {
-    font-weight: 700;
+    font-weight: 600;
 }
 .mailbox-inbox .mail-item div.mail-item-heading {
     padding: 11px 10px 11px 0;
@@ -585,7 +585,7 @@
     background: transparent;
     font-size: 12px;
     margin-right: 3px;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 2px;
     letter-spacing: 0px;
     max-width: 96px;
@@ -658,7 +658,7 @@
 .mailbox-inbox .mail-content-container .user-info .meta-title-tag .mail-usr-name {
     margin-bottom: 0;
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 600;
     color: #2196f3;
 }
 .mailbox-inbox .mail-content-container .user-info .user-email {
@@ -668,7 +668,7 @@
 }
 .mailbox-inbox .mail-content-container .user-info .user-email span {
     font-size: 16px;
-    font-weight: 700;
+    font-weight: 600;
 }
 .mailbox-inbox .mail-content-container .user-info .user-cc-mail {
     margin-bottom: 0;
@@ -678,18 +678,18 @@
 }
 .mailbox-inbox .mail-content-container .user-info .user-cc-mail span {
     font-size: 16px;
-    font-weight: 700;
+    font-weight: 600;
 }
 .mailbox-inbox .mail-content-container .user-info .meta-mail-time .meta-time {
     display: inline-block;
-    font-weight: 700;
+    font-weight: 600;
 }
 .mailbox-inbox .mail-content-container .mail-content-meta-date {
     font-size: 13px;
     font-weight: 500;
     color: #3b3f5c;
     display: inline-block;
-    font-weight: 700;
+    font-weight: 600;
 }
 .mailbox-inbox .mail-content-container .action-btns a {
     margin-right: 20px;
@@ -757,7 +757,7 @@
 .mailbox-inbox .mail-content-container .attachment .file-name {
     color: #3b3f5c;
     font-size: 12px;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 0;
     word-break: break-word;
 }
@@ -765,7 +765,7 @@
     color: #3b3f5c;
     font-size: 11px;
     text-align: left;
-    font-weight: 700;
+    font-weight: 600;
     margin-bottom: 0;
 }
 #editor-container { height: 200px; }
@@ -809,10 +809,10 @@
     text-align: left;
     margin-top: 6px;
     font-size: 12px;
-    letter-spacing: 1px;
+    letter-spacing: .5px;
 }
 .compose-box .compose-content form .mail-form p {
-    font-weight: 700;
+    font-weight: 600;
     color: #3b3f5c;
     font-size: 16px;
     margin-bottom: 0;
@@ -820,7 +820,7 @@
 }
 .compose-box .compose-content form .mail-form select {
     padding: 5px;
-    font-weight: 700;
+    font-weight: 600;
     color: #6628fe;
     margin-left: 10px;
     border-radius: 6px;
@@ -856,7 +856,7 @@
 #composeMailModal .modal-footer .btn[data-dismiss="modal"] {
     background-color: #fff;
     color: #6628fe;
-    font-weight: 700;
+    font-weight: 600;
     border: 1px solid #e8e8e8;
     padding: 10px 25px;
 }
