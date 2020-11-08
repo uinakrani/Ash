@@ -135,10 +135,13 @@ var App = function() {
             }
 
             var menuItem = $('#sidebar .menu-categories .menu');
+            var menuWrapper = $('.menu-categories');
+            var currentEle;
             menuItem.on('mouseover', function () {
-                var currentEle = $(this);
+                currentEle = $(this);
                 var height = currentEle.find('a').innerHeight();
                 var width = currentEle.find('a').innerWidth();
+
                 var pos = currentEle.position().top;
                 if (pos == 0) {
                     pos = 21
@@ -146,11 +149,30 @@ var App = function() {
                 if (windowWidth <= 991) {
                     pos += 10;
                 }
-                $('.menu-indicator').css({opacity:1, top: pos, height: height, width: width})
+                setTimeout(function () {
+                    height = currentEle.find('a').innerHeight();
+                    width = currentEle.find('a').innerWidth();
+                    pos = currentEle.position().top;
+                    if (pos == 0) {
+                        pos = 21
+                    }
+                    if (windowWidth <= 991) {
+                        pos += 10;
+                    }
+                    $('.menu-indicator').css({opacity:1, top: pos, height: height, width: width})
+                }, 150)
+                // $('.menu-indicator').css({opacity:1, top: pos, height: height, width: width})
 
             });
             menuItem.on('mouseleave', function () {
+                setTimeout(function () {
+
+                    $('.menu-indicator').css({opacity: 0})
+                }, 150)
+            });
+            menuWrapper.on('scroll', function () {
                 $('.menu-indicator').css({opacity: 0})
+                currentEle.trigger('mouseover');
             })
         },
 
