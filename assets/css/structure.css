@@ -840,7 +840,7 @@ code { color: #e7515a; }
 #sidebar ul.menu-categories li.menu > .dropdown-toggle > div { align-self: center; }
 #sidebar ul.menu-categories li.menu .dropdown-toggle:after { display: none; }
 #sidebar ul.menu-categories li.menu > .dropdown-toggle svg {
-    color: #506690;
+    color: #8b65ff;
     margin-right: 10px;
     vertical-align: middle;
     width: 20px;
