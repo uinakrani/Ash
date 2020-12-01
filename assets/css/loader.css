@@ -1,5 +1,5 @@
 div#load_screen{
-      background: rgb(236, 239, 255);
+      background: rgb(255, 255, 255);
       opacity: 1;
       position: fixed;
       z-index:999999;
@@ -15,8 +15,12 @@ div#load_screen .loader {
     height: 100vh;
 }
 div#load_screen .loader-content {
+    text-align: center;
     right: 0;
     align-self: center;
+}
+div#load_screen .loader-content img {
+    width: 50%;
 }
 .spinner-grow {
     color: #304aca;
