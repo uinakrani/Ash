@@ -130,7 +130,7 @@ var App = function() {
     var _desktopResolution = {
         onRefresh: function() {
             var windowWidth = window.innerWidth;
-            let sideBarTimeOut = 400;
+            let sideBarTimeOut = 380;
             if ( windowWidth > MediaSize.md ) {
                 sideBarTimeOut = 100;
                 toggleFunction.sidebar(true);
