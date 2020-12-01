@@ -130,7 +130,9 @@ var App = function() {
     var _desktopResolution = {
         onRefresh: function() {
             var windowWidth = window.innerWidth;
+            let sideBarTimeOut = 400;
             if ( windowWidth > MediaSize.md ) {
+                sideBarTimeOut = 100;
                 toggleFunction.sidebar(true);
             }
 
@@ -160,7 +162,7 @@ var App = function() {
                         pos += 10;
                     }
                     $('.menu-indicator').css({opacity:1, top: pos, height: height, width: width})
-                }, 350)
+                }, sideBarTimeOut)
                 // $('.menu-indicator').css({opacity:1, top: pos, height: height, width: width})
 
             });
@@ -168,7 +170,7 @@ var App = function() {
                 setTimeout(function () {
 
                     $('.menu-indicator').css({opacity: 0})
-                }, 350)
+                }, sideBarTimeOut)
             });
             menuWrapper.on('scroll', function () {
                 $('.menu-indicator').css({opacity: 0})
