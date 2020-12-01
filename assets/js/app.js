@@ -160,7 +160,7 @@ var App = function() {
                         pos += 10;
                     }
                     $('.menu-indicator').css({opacity:1, top: pos, height: height, width: width})
-                }, 100)
+                }, 150)
                 // $('.menu-indicator').css({opacity:1, top: pos, height: height, width: width})
 
             });
@@ -168,7 +168,7 @@ var App = function() {
                 setTimeout(function () {
 
                     $('.menu-indicator').css({opacity: 0})
-                }, 100)
+                }, 150)
             });
             menuWrapper.on('scroll', function () {
                 $('.menu-indicator').css({opacity: 0})
