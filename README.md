@@ -6,4 +6,5 @@
   <h3 align="center">Ash - Develoer Friendy Admin Dashboard</h3>
 </p>
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/AshLabz/ash/blob/ashish/demo-app/assets/img/dash.png)
+[![Product Name Screen Shot][product-screenshot]](http://ash-developerfriendlyadmindashboard.000webhostapp.com/demo.html)
+[product-screenshot]: https://github.com/AshLabz/ash/blob/ashish/demo-app/assets/img/dash.png
